@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:layout="@layout/preference_category" android:title="@string/recordingoption">
+        <Preference android:title="@string/recording_folder_path" android:key="backupRecordPath" android:summary="@string/recording_folder_path" android:defaultValue="@string/recording_folder_path" />
+        <SwitchPreference android:title="@string/recording_name_confirmation_title" android:key="recording_file_name_dialog_confirmation" android:defaultValue="true" android:summaryOn="@string/recording_name_confirmation_summary_on" android:summaryOff="@string/recording_name_confirmation_summary_off" />
+    </PreferenceCategory>
+    <SwitchPreference android:title="@string/action_deleted_items" android:key="trash" android:defaultValue="true" android:summaryOn="@string/trashcontent" android:summaryOff="@string/trashcontentoff" />
+    <PreferenceCategory android:layout="@layout/preference_category" android:title="">
+        <ListPreference android:entries="@array/trash_options" android:title="@string/trash_size" android:key="trash_name" android:summary="%s" android:dependency="trash" android:defaultValue="2" android:dialogTitle="@string/trash_size" android:entryValues="@array/trash_values" />
+        <ListPreference android:entries="@array/record_file_type_options" android:title="@string/recording_file_type" android:key="recording_file_name" android:summary="%s" android:defaultValue="4" android:dialogTitle="@string/recording_file_type" android:entryValues="@array/record_file_type_values" />
+        <ListPreference android:entries="@array/record_file_quality_options" android:title="@string/recording_quality" android:key="recording_sample_rate" android:summary="%s" android:defaultValue="4" android:dialogTitle="@string/recording_quality" android:entryValues="@array/record_file_quality_values" />
+        <ListPreference android:entries="@array/sort_recordings_by_entries" android:title="@string/select_sort_order" android:key="sortOption" android:summary="%s" android:defaultValue="7" android:dialogTitle="@string/select_sort_order" android:entryValues="@array/sort_recordings_by_values" />
+    </PreferenceCategory>
+    <PreferenceCategory android:layout="@layout/preference_category" android:title="@string/pref_header_about">
+        <Preference android:title="@string/privacy_policy" android:key="privacy_policy">
+            <intent android:action="android.intent.action.VIEW" android:data="@string/privacypolicyurl" />
+        </Preference>
+        <Preference android:title="@string/title_faqs" android:key="key_send_faqs" android:summary="@string/summary_faqs">
+            <intent android:targetPackage="com.raytechnoto.glab.voicerecorder" android:action="android.intent.action.VIEW" android:targetClass="com.raytechnoto.glab.voicerecorder.FrequentlyAskedQuestions">/</intent>
+        </Preference>
+        <Preference android:title="@string/title_send_feedback" android:key="key_send_feedback" android:summary="@string/summary_support" />
+        <Preference android:title="@string/licencetitle" android:key="key_licence" android:summary="@string/licencesummary">
+            <intent android:targetPackage="com.raytechnoto.glab.voicerecorder" android:action="android.intent.action.VIEW" android:targetClass="com.raytechnoto.glab.voicerecorder.Licence">/</intent>
+        </Preference>
+    </PreferenceCategory>
+</PreferenceScreen>

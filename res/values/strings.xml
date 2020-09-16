@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about">About App</string>
+    <string name="aboutActivityTitle">About</string>
+    <string name="about_app_summary">App Share lets you easily share apps to your friends, extract apps to your phone and uninstall apps from your phone.</string>
+    <string name="about_app_title">About</string>
+    <string name="about_player_service">Audio Player Service</string>
+    <string name="about_privacy_summary">We consider user privacy of utmost importance and take all precautions to protect user privacy during use of our android apps.</string>
+    <string name="about_recorder_service">Audio Recoridng Service</string>
+    <string name="about_translations">Help us translate Voice Recorder to your native language to benefit your language users</string>
+    <string name="action_ad">Ad</string>
+    <string name="action_consent">Consent</string>
+    <string name="action_deleted_items">Trash</string>
+    <string name="action_list_recordings">List</string>
+    <string name="action_search">Search Recordings..</string>
+    <string name="action_settings">Settings</string>
+    <string name="adcame">Ad Came Successfully</string>
+    <string name="adnotcame">Ad did not come</string>
+    <string name="alarm">Alarm</string>
+    <string name="alert_no_button">No, thanks.</string>
+    <string name="alert_ok_button">OK</string>
+    <string name="alert_title_failure">Error</string>
+    <string name="alert_title_success">Success</string>
+    <string name="alert_yes_button">Yes, please!</string>
+    <string name="androidmarket" />
+    <string name="app_name">Voice Recorder</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="applovin_instructions_dialog_title">Instructions</string>
+    <string name="applovin_list_item_image_description">Displays more info about the list item.</string>
+    <string name="appversion">App Version:</string>
+    <string name="artist_name">VoiceRecorder</string>
+    <string name="bad_extension_error">Sorry, VoiceRecorder is not yet able to edit files of type</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="brand">Device Brand:</string>
+    <string name="btnDislike">Dislike It</string>
+    <string name="btnNo">No,Thanks</string>
+    <string name="btnRateMe">"Rate
+5 Stars"</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_label">CANCEL</string>
+    <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="choose_contact_ringtone_button">Assign to Contact</string>
+    <string name="choose_email_client">Tell us more about the problems you are facing with the app</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="confirm_label">CONFIRM</string>
+    <string name="connectplaystore">Could not connect to Play store</string>
+    <string name="contenttitle">Voice Recorder</string>
+    <string name="context_menu_contact">Assign to Contact</string>
+    <string name="context_menu_default_notification">Set as Default Notification</string>
+    <string name="context_menu_default_ringtone">Set as Default Ringtone</string>
+    <string name="context_menu_delete">Delete</string>
+    <string name="context_menu_edit">Edit</string>
+    <string name="couldNotOpenAndroidMarket">Could not open Android market.</string>
+    <string name="create_folder_error">The folder could not be created</string>
+    <string name="create_folder_error_already_exists">folder already exists</string>
+    <string name="create_folder_error_no_write_access">Can not write to this folder</string>
+    <string name="create_folder_label">Create folder</string>
+    <string name="create_folder_msg">Create new folder with name ?</string>
+    <string name="create_folder_success">Folder created</string>
+    <string name="creationtime">Creation time:</string>
+    <string name="default_notification_success_message">Changed default notification sound</string>
+    <string name="default_ringtone_success_message">Changed default ringtone</string>
+    <string name="default_web_client_id">798153425800-0gm1sngq8geit56d4dc0o3g3jpqa9ibc.apps.googleusercontent.com</string>
+    <string name="delete">Delete</string>
+    <string name="delete_permanentaly">Delete Permanently</string>
+    <string name="deleteactivitytitle">Deleted Recordings</string>
+    <string name="deleted">Record Deleted Successfully</string>
+    <string name="deletefile">Delete File</string>
+    <string name="deletefilepermanently">Delete File Permanently</string>
+    <string name="do_nothing_with_ringtone_button">Close</string>
+    <string name="duration">Duration:</string>
+    <string name="durationDecreasing">Duration Decreasing</string>
+    <string name="durationIncreasing">Duration Increasing</string>
+    <string name="edit">Edit</string>
+    <string name="editFile">Edited File Saved Successfully</string>
+    <string name="edit_intent">Edit</string>
+    <string name="end_label">END:</string>
+    <string name="end_marker">End marker</string>
+    <string name="exo_controls_fastforward_description">Fast forward</string>
+    <string name="exo_controls_fullscreen_description">Fullscreen mode</string>
+    <string name="exo_controls_next_description">Next track</string>
+    <string name="exo_controls_pause_description">Pause</string>
+    <string name="exo_controls_play_description">Play</string>
+    <string name="exo_controls_previous_description">Previous track</string>
+    <string name="exo_controls_repeat_all_description">Repeat all</string>
+    <string name="exo_controls_repeat_off_description">Repeat none</string>
+    <string name="exo_controls_repeat_one_description">Repeat one</string>
+    <string name="exo_controls_rewind_description">Rewind</string>
+    <string name="exo_controls_shuffle_description">Shuffle</string>
+    <string name="exo_controls_stop_description">Stop</string>
+    <string name="exo_download_completed">Download completed</string>
+    <string name="exo_download_description">Download</string>
+    <string name="exo_download_downloading">Downloading</string>
+    <string name="exo_download_failed">Download failed</string>
+    <string name="exo_download_notification_channel_name">Downloads</string>
+    <string name="exo_download_removing">Removing downloads</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_selection_auto">Auto</string>
+    <string name="exo_track_selection_none">None</string>
+    <string name="exo_track_selection_title_audio">Audio</string>
+    <string name="exo_track_selection_title_text">Text</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Surround sound</string>
+    <string name="exo_track_surround_5_point_1">5.1 surround sound</string>
+    <string name="exo_track_surround_7_point_1">7.1 surround sound</string>
+    <string name="exo_track_unknown">Unknown</string>
+    <string name="extension_last">mp3</string>
+    <string name="extension_last1">MP3</string>
+    <string name="fab_transformation_scrim_behavior">android.support.design.transformation.FabTransformationScrimBehavior</string>
+    <string name="fab_transformation_sheet_behavior">android.support.design.transformation.FabTransformationSheetBehavior</string>
+    <string name="faqs_activity_tille">FAQs</string>
+    <string name="faqs_details">" "<br></br><b><font size="20">"
+ Frequently Asked Questions"</font></b> <br></br><b><font size="18">"
+
+ • I have accidentally deleted my recording. Can I retrieve the same?"</font></b>" 
+ Please make sure to enable Trash Setting is "<b>ON</b>.In case you accidentally deleted your recording, you would be able to restore the same. <br></br><b><font size="18">"
+
+ • I am not able to view my recordings. How can I see my recordings ?"</font></b>" 
+1. Open app. 
+2. Click on settings, second button from top right corner. 
+3. Check out the very first setting named as Recording Folder it shows the path where recordings are saved. 
+4. Go to internal storage using any file manager android application and search that path. 
+5. Recordings will be there. "<br></br><b><font size="18">"
+
+ • What is the best way to protect my important recordings? "</font></b>" 
+ We recommend using the "<b>Share</b> option in the list of recordings screens to share/upload your important recordings to cloud like Google Drive or DropBox etc. <br></br><b><font size="18">"
+
+ • Is Call Recording Supported? "</font></b>" 
+ No, Call Recording is not supported in this application. "</string>
+    <string name="feedback_dialog_body">"Help us improve this app!
+
+We welcome your comments, suggestions and corrections."</string>
+    <string name="feedbackmessage">"
+
+-----------------------------
+Please do not remove this information
+ Device OS: Android 
+ Device OS version:"</string>
+    <string name="ffwd">Fast forward</string>
+    <string name="fileExists">File Name Already Exists</string>
+    <string name="fileExistsDefault">File name already exists, File saved with default name</string>
+    <string name="file_save_button_cancel">Cancel</string>
+    <string name="file_save_button_save">Save</string>
+    <string name="file_save_title">Save As:</string>
+    <string name="fileduration">DURATION</string>
+    <string name="filelocation">FILE LOCATION</string>
+    <string name="filename">File Name:</string>
+    <string name="filesize">File size:</string>
+    <string name="firebase_database_url">https://raytechnotogapps.firebaseio.com</string>
+    <string name="gb">Gb</string>
+    <string name="gcm_defaultSenderId">798153425800</string>
+    <string name="google_api_key">AIzaSyAxbC0V-H2Kha7wU6KfyCJ_Siuozu5JGNk</string>
+    <string name="google_app_id">1:798153425800:android:b428630b2b4d8569</string>
+    <string name="google_crash_reporting_api_key">AIzaSyAxbC0V-H2Kha7wU6KfyCJ_Siuozu5JGNk</string>
+    <string name="google_storage_bucket">raytechnotogapps.appspot.com</string>
+    <string name="gp">.3gp (Small Files)</string>
+    <string name="grant">Grant</string>
+    <string name="hide_bottom_view_on_scroll_behavior">android.support.design.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="hours">h</string>
+    <string name="information">Information regarding the file</string>
+    <string name="inprogress">Recording is in progress</string>
+    <string name="insert">Insert new file name</string>
+    <string name="installDateNewestToOldest">Date Newest -> Oldest</string>
+    <string name="installDateOldestToNewest">Date Oldest -> Newest</string>
+    <string name="kb">Kb</string>
+    <string name="key_send_feedback">key_send_feedback</string>
+    <string name="licence_app">"
+&lt;b> Open Source Licences &lt;/b>
+&lt;br/>
+&lt;br/>• Android-DirectoryChooser - Copyright 2013-2016 Pascal Hartig -
+    &lt;a href=\"http://www.apache.org/licenses/LICENSE-2.0 \">Licence&lt;/a> &lt;br/>• Android-Audio-Visualizer - Copyright 2017 Gautam Chibde - &lt;a href=\"http://www.apache.org/licenses/LICENSE-2.0 \">Licence&lt;/a>
+&lt;br/>• Android-Ripple-Background - Copyright (c) 2014 Yao Yu
+    &lt;a href=\"https://github.com/skyfishjy/android-ripple-background/blob/master/LICENSE \">Licence&lt;/a> &lt;br/>• Gift Icon (iconfinder.com) - 298782 &lt;a href=\"https://opensource.org/licenses/MIT \">Licence&lt;/a>
+
+&lt;br/>• Star Icon (iconfinder.com) - 285661
+
+        &lt;br/>• Ringdroid - Copyright (C) 2008 - 2011 Google Inc.
+    &lt;a href=\"http://www.apache.org/licenses/LICENSE-2.0 \">Licence&lt;/a> &lt;a href=\"https://github.com/google/ringdroid/ \">Go to Site&lt;/a>
+
+        &lt;br/>• Scissors Icon (iconfinder.com) - 2561380
+    &lt;a href=\"https://opensource.org/licenses/MIT \">Licence&lt;/a> &lt;br/>• Rate Dialog Copyright (c) 2015 Shintaro Katafuchi &lt;a href=\"https://github.com/hotchemi/Android-Rate/blob/master/LICENSE \">Licence&lt;/a>
+
+
+
+        "</string>
+    <string name="licencesummary">Licence details for open-source software</string>
+    <string name="licencetitle">Open Source Licences</string>
+    <string name="listen">Listen</string>
+    <string name="location">File location:</string>
+    <string name="m4a">.m4a (Good Quality)</string>
+    <string name="mail_feedback_email">raytechnoto@gmail.com</string>
+    <string name="mail_feedback_message">"Hi,
+
+
+
+Write your Feedback here:"</string>
+    <string name="mail_feedback_subject">Feedback on Voice Recorder</string>
+    <string name="mail_translate_message" />
+    <string name="make_default_ringtone_button">Make Default</string>
+    <string name="manufacture">Device Manufacturer:</string>
+    <string name="mb">Mb</string>
+    <string name="media_path">/QuickVoiceRecorder/Audios</string>
+    <string name="menu_about">About</string>
+    <string name="menu_reset">Reset</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_show_all_audio">Show All Audio</string>
+    <string name="message">Confirmation of name is asked</string>
+    <string name="message_not">Confirmation of name is not asked</string>
+    <string name="minutes">m</string>
+    <string name="model">Device Model:</string>
+    <string name="moreoptions">More Options</string>
+    <string name="mp3">.mp3 (Good Quality)</string>
+    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+    <string name="music">Music</string>
+    <string name="myrecording">My Recording #</string>
+    <string name="nameAZ">Name A -> Z</string>
+    <string name="nameZA">Name Z -> A</string>
+    <string name="newfile">Enter new file name</string>
+    <string name="nextoff">Next Play mode is OFF</string>
+    <string name="nexton">Next Play mode is ON</string>
+    <string name="no_extension_error">"Sorry, VoiceRecorder can't edit a file if it doesn't have an extension like .mp3 or .wav"</string>
+    <string name="no_space_error">Your SD card is full, there is not enough space to save this file.</string>
+    <string name="no_unique_filename">Unable to find unique filename</string>
+    <string name="notification">Notification</string>
+    <string name="ok">OK</string>
+    <string name="openWith">Open with</string>
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pause">Recording is Paused</string>
+    <string name="permission">You must give permissions to use this app. App is exiting.</string>
+    <string name="play">Play</string>
+    <string name="play_error">Unable to play this media file</string>
+    <string name="pref_header_about">Support</string>
+    <string name="press">Press button to record</string>
+    <string name="pressstop">Press button to stop recording</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacypolicyurl">https://raytechnoto.github.io/privacy-policy/</string>
+    <string name="progress">RECORDING IS IN PROGRESS</string>
+    <string name="progress_dialog_cancel">Cancel</string>
+    <string name="progress_dialog_loading">Loading</string>
+    <string name="progress_dialog_recording">Recording</string>
+    <string name="progress_dialog_saving">Saving</string>
+    <string name="progress_dialog_stop">Stop</string>
+    <string name="project_id">raytechnotogapps</string>
+    <string name="rate1">If you like using</string>
+    <string name="rate2">, please take a moment to rate it.</string>
+    <string name="rate3">Thanks for your support!</string>
+    <string name="rateDialogTitle">Rate App</string>
+    <string name="rate_Summary">"Please take a moment to rate Voice Recorder,
+Thanks for your support!"</string>
+    <string name="rate_dialog_body">"If you like using Voice Recorder, please take a moment to rate it.
+
+Thanks for your support!"</string>
+    <string name="rate_dialog_cancel">Remind Me Later</string>
+    <string name="rate_dialog_message">"If you enjoy using this app, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!"</string>
+    <string name="rate_dialog_no">No, Thanks</string>
+    <string name="rate_dialog_ok">Rate It Now</string>
+    <string name="rate_dialog_title">Rate this app</string>
+    <string name="ratenew">We are a small team working very hard to give you best free apps! Your 5-star review is worth more than all money. Please write a nice review in Google Play to encourage us!</string>
+    <string name="read_error">Error reading file</string>
+    <string name="record_error">Error recording audio</string>
+    <string name="recording">Recording</string>
+    <string name="recording_file_name">Recording File Name</string>
+    <string name="recording_file_type">Recording File Type</string>
+    <string name="recording_folder_path">Recording Folder</string>
+    <string name="recording_name_confirmation_summary_off">Recording File is saved with default name</string>
+    <string name="recording_name_confirmation_summary_on">Enter the file name after recording</string>
+    <string name="recording_name_confirmation_title">Recording File Name Confirmation</string>
+    <string name="recording_quality">Sample Rate</string>
+    <string name="recording_started">Recording Started</string>
+    <string name="recordingoption">Recording Options</string>
+    <string name="recordings_save">Please wait...recording is being saved</string>
+    <string name="recordingsaved">RECORDING SAVED SUCCESSFULLY</string>
+    <string name="remain">Remaining Storage:</string>
+    <string name="remindme">Remind me later</string>
+    <string name="rename">Rename</string>
+    <string name="repeatoff">Repeat mode is OFF</string>
+    <string name="repeaton">Repeat mode is ON</string>
+    <string name="restore">Restore</string>
+    <string name="restored_status">Record Restored Successfully</string>
+    <string name="restorefile">Restore File</string>
+    <string name="rewind">Rewind</string>
+    <string name="ringtone">Ringtone</string>
+    <string name="ringtone_name_label">Name:</string>
+    <string name="ringtone_type_label">Type:</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="s7">Test Ad</string>
+    <string name="save_button">Save</string>
+    <string name="save_success_message">Saved!</string>
+    <string name="saveas">Ringtone</string>
+    <string name="saved">RECORDING IS SAVED</string>
+    <string name="searchQueryHint">Search Recordings..</string>
+    <string name="search_menu_title">Search</string>
+    <string name="seconds">s</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="select_sort_order">Recordings Sort Order</string>
+    <string name="selected_folder_label">Selected Folder:</string>
+    <string name="setAs">Set as Ringtone</string>
+    <string name="set_default_notification">Saved! Make this your default notification?</string>
+    <string name="share">Share</string>
+    <string name="sharefile">Share Audio File</string>
+    <string name="show_apps">Show Apps</string>
+    <string name="size">FILE SIZE</string>
+    <string name="sizeDecreasing">Size Decreasing</string>
+    <string name="sizeIncreasing">Size Increasing</string>
+    <string name="sort">Sort</string>
+    <string name="sort_apps">Sort Apps</string>
+    <string name="sortorder">Select Sort Order</string>
+    <string name="start_label">START:</string>
+    <string name="start_marker">Start marker</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop">Stop</string>
+    <string name="storagepermission">Need Storage Permission</string>
+    <string name="storagepermissionmessage">This app needs storage permission</string>
+    <string name="subject">Feedback on Voice Recorder</string>
+    <string name="summary_faqs">Frequently Asked Questions</string>
+    <string name="summary_support">Tell us more about the problems you are facing with the app</string>
+    <string name="time">CREATED</string>
+    <string name="time_seconds">seconds</string>
+    <string name="title">Privacy Policy</string>
+    <string name="title_Settings_activity">Settings</string>
+    <string name="title_activity_android_building_music_player">Player</string>
+    <string name="title_activity_app_compat_preference">AppCompatPreferenceActivity</string>
+    <string name="title_activity_in_app_billing">InAppBillingActivity</string>
+    <string name="title_activity_main_bottom">MainBottomActivity</string>
+    <string name="title_activity_main_tabbed">MainTabbedActivity</string>
+    <string name="title_activity_my_billing">MyBilling</string>
+    <string name="title_activity_rate">RateActivity</string>
+    <string name="title_activity_recording_self">RecordingActivitySelf</string>
+    <string name="title_activity_recordings">Recordings</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_faqs">FAQs</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_send_feedback">Send feedback</string>
+    <string name="too_small_error">"Can't save a file that small, try making it longer."</string>
+    <string name="translations">Help us Translate</string>
+    <string name="trash_size">Trash Size</string>
+    <string name="trashcontent">Files will be moved to the trash when deleted</string>
+    <string name="trashcontentoff">Files will be deleted permanently and cannot be restored</string>
+    <string name="txtView">Rate 5 Stars</string>
+    <string name="type_alarm">Alarm</string>
+    <string name="type_music">Music</string>
+    <string name="type_notification">Notification</string>
+    <string name="type_recording">Recording</string>
+    <string name="type_ringtone">Ringtone</string>
+    <string name="unable">Unable to get Permission</string>
+    <string name="up_label">Behind</string>
+    <string name="viewDetail">View Details</string>
+    <string name="volumeup">Please turn the volume up</string>
+    <string name="wav">.wav (High Quality)</string>
+    <string name="what_to_do_with_ringtone">Saved! Make this your default ringtone or assign it to a contact?</string>
+    <string name="write_error">Error writing file</string>
+    <string name="zoom_in">Zoom In</string>
+    <string name="zoom_out">Zoom Out</string>
+    <item type="string" name="APKTOOL_DUMMY_0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d7">false</item>
+</resources>

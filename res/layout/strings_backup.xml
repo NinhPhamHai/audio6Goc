@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Voice Recorder</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_ad">Ad</string>
+    <string name="action_list_recordings">List</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="recording_started">Recording Started</string>
+    <string name="volumeup">Please turn the volume up</string>
+    <string name="adcame">Ad Came Successfully</string>
+    <string name="adnotcame">Ad did not come</string>
+    <string name="repeatoff">Repeat mode is OFF</string>
+    <string name="repeaton">Repeat mode is ON</string>
+    <string name="nextoff">Next Play mode is OFF</string>
+    <string name="nexton">Next Play mode is ON</string>
+    <string name="rate1"> If you like using </string>
+    <string name="rate2">, please take a moment to rate it.
+
+    Thanks for your support! </string>
+    <string name="connectplaystore">Could not connect to Play store</string>
+    <string name="remindme">Remind me later</string>
+    <string name="contenttitle">Voice Recorder</string>
+    <string name="inprogress">Player is in progress</string>
+    <string name="recording">Recording</string>
+    <string name="music">Music</string>
+    <string name="alarm">Alarm</string>
+    <string name="notification">Notification</string>
+    <string name="ringtone">Ringtone</string>
+    <string name="saveas">Ringtone</string>
+    <string name="permission">You must give permissions to use this app. App is exiting.</string>
+    <string name="media_path">/QuickVoiceRecorder/Audios</string>
+    <string name="extension_last">mp3</string>
+    <string name="extension_last1">MP3</string>
+    <string name="title">Privacy Policy</string>
+    <string name="pause">Recording is Paused</string>
+    <string name="progress">Recording is in Progress</string>
+    <string name="saved">recording is saved</string>
+    <string name="insert">Insert new file name</string>
+    <string name="ok">OK</string>
+    <string name="sortorder">Select Sort Order</string>
+    <string name="kb"> Kb</string>
+    <string name="mb"> Mb</string>
+    <string name="gb"> Gb</string>
+    <string name="hours">h</string>
+    <string name="minutes">m</string>
+    <string name="seconds">s</string>
+    <string name="newfile">Enter new file name</string>
+    <string name="cancel">Cancel</string>
+    <string name="information">Information regarding the file</string>
+    <string name="location">File location: </string>
+    <string name="filename">File name:</string>
+    <string name="filesize"> File size:</string>
+    <string name="creationtime"> Creation time:</string>
+    <string name="duration"> Duration:</string>
+    <string name="sharefile">Share Audio File</string>
+    <string name="deletefile">Delete File</string>
+    <string name="deleted">"Record Deleted Successfully"</string>
+    <string name="message_not">Confirmation of name is not asked</string>
+    <string name="message">Confirmation of name is asked</string>
+    <string name="about">About App</string>
+    <string name="storagepermission">Need Storage Permission</string>
+    <string name="storagepermissionmessage">This app needs storage permission</string>
+    <string name="grant">Grant</string>
+    <string name="unable">Unable to get Permission</string>
+    <string name="sort">Sort</string>
+    <string name="press">Press button to record</string>
+    <string name="recordingoption">Recording Options</string>
+    <string name="myrecording">My Recording # </string>
+    <string name="nameAZ">"Name A -> Z"</string>
+    <string name="nameZA">"Name Z -> A"</string>
+    <string name="sizeIncreasing">"Size Increasing"</string>
+    <string name="sizeDecreasing">"Size Decreasing"</string>
+    <string name="durationIncreasing">"Duration Increasing"</string>
+    <string name="durationDecreasing">"Duration Decreasing"</string>
+    <string name="installDateNewestToOldest">"Date Newest -> Oldest"</string>
+    <string name="installDateOldestToNewest">"Date Oldest -> Newest"</string>
+    <string name="action_search">Search Recordings..</string>
+    <string name="about_recorder_service">Audio Recoridng Service</string>
+    <string name="about_player_service">Audio Player Service</string>
+    <string name="translations">Help us Translate</string>
+    <string name="title_activity_app_compat_preference">AppCompatPreferenceActivity</string>
+    <string name="title_Settings_activity">Settings</string>
+    <string name="title_activity_recording_self">RecordingActivitySelf</string>
+    <string name="title_activity_recordings">Recordings</string>
+    <string name="title_activity_android_building_music_player">Player</string>
+    <string name="aboutActivityTitle">About</string>
+    <string name="translateActivityTitle">Help us Translate</string>
+    <string name="recording_folder_path">Recording Folder</string>
+    <string name="recording_file_name">Recording File Name</string>
+    <string name="recording_file_type">Recording File Type</string>
+    <string name="recording_quality">Sample Rate</string>
+    <string name="recording_name_confirmation_title">Recording File Name Confirmation</string>
+    <string name="recording_name_confirmation_summary_on">Enter the file name after recording</string>
+    <string name="recording_name_confirmation_summary_off">Recording File is saved with default name</string>
+    <string name="select_sort_order">Recordings Sort Order</string>
+    <string name="sort_apps">Sort Apps</string>
+    <string name="show_apps">Show Apps</string>
+    <string-array name="sortOptions">
+        <item>@string/nameAZ</item>
+        <item>@string/nameZA</item>
+        <item>@string/sizeIncreasing</item>
+        <item>@string/sizeDecreasing</item>
+        <item>@string/durationIncreasing</item>
+        <item>@string/durationDecreasing</item>
+        <item>@string/installDateNewestToOldest</item>
+        <item>@string/installDateOldestToNewest</item>
+    </string-array>
+    <string name="pref_header_about">Support</string>
+    <string name="rate_Summary">"Please take a moment to rate Voice Recorder,
+Thanks for your support!"</string>
+    <string name="summary_support">Help us improve this app! We welcome your comments, suggestions and corrections.</string>
+    <string name="rate_dialog_body">"If you like using Voice Recorder, please take a moment to rate it.
+
+Thanks for your support!"</string>
+    <string name="rateDialogTitle">Rate App</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="about_privacy_summary">"We consider user privacy of utmost importance and take all precautions to protect user privacy during use of our android apps.</string>
+    <string name="feedback_dialog_body">"Help us improve this app!
+
+We welcome your comments, suggestions and corrections."</string>
+    <string name="key_send_feedback">key_send_feedback</string>
+    <string name="title_send_feedback">Send feedback</string>
+    <string name="about_app_title">About</string>
+    <string name="choose_email_client">Choose email client</string>
+    <string name="couldNotOpenAndroidMarket">Could not open Android market.</string>
+    <string name="share">"Share"</string>
+    <string name="rename">"Rename"</string>
+    <string name="delete">"Delete"</string>
+    <string name="openWith">"Open with"</string>
+    <string name="viewDetail">"View Details"</string>
+    <string name="listen">"Listen"</string>
+    <string name="edit">"Edit"</string>
+    <string name="moreoptions">More Options</string>
+    <string name="privacypolicyurl">https://raytechnoto.github.io/privacy-policy/</string>
+    <string name="progress_dialog_loading">Loading</string>
+    <string name="progress_dialog_recording">Recording</string>
+    <string name="progress_dialog_saving">Saving</string>
+    <string name="progress_dialog_cancel">Cancel</string>
+    <string name="progress_dialog_stop">Stop</string>
+    <string name="too_small_error">Can't save a file that small, try making it longer.</string>
+    <string name="write_error">Error writing file</string>
+    <string name="read_error">Error reading file</string>
+    <string name="no_space_error">Your SD card is full, there is not enough space to save this file.</string>
+    <string name="bad_extension_error">Sorry, VoiceRecorder is not yet able to edit files of type</string>
+    <string name="no_extension_error">Sorry, VoiceRecorder can't edit a file if it doesn't have an extension like .mp3 or .wav</string>
+    <string name="time_seconds">seconds</string>
+    <string name="what_to_do_with_ringtone">Saved!  Make this your default ringtone or assign it to a contact?</string>
+    <string name="set_default_notification">Saved!  Make this your default notification?</string>
+    <string name="make_default_ringtone_button">Make Default</string>
+    <string name="choose_contact_ringtone_button">Assign to Contact</string>
+    <string name="do_nothing_with_ringtone_button">Close</string>
+    <string name="start_marker">Start marker</string>
+    <string name="end_marker">End marker</string>
+    <string name="rewind">Rewind</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="ffwd">Fast forward</string>
+    <string name="zoom_in">Zoom In</string>
+    <string name="zoom_out">Zoom Out</string>
+    <string name="save_button">Save</string>
+    <string name="save_success_message">Saved!</string>
+    <string name="default_ringtone_success_message">Changed default ringtone</string>
+    <string name="default_notification_success_message">Changed default notification sound</string>
+    <string name="play_error">Unable to play this media file</string>
+    <string name="no_unique_filename">Unable to find unique filename</string>
+    <string name="record_error">Error recording audio</string>
+    <string name="alert_title_success">Success</string>
+    <string name="alert_title_failure">Error</string>
+    <string name="alert_ok_button">OK</string>
+    <string name="alert_yes_button">Yes, please!</string>
+    <string name="alert_no_button">No, thanks.</string>
+    <string name="artist_name">VoiceRecorder</string>
+    <string name="start_label">Start:</string>
+    <string name="end_label">End:</string>
+    <string name="edit_intent">Edit</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_reset">Reset</string>
+    <string name="menu_about">About</string>
+    <string name="menu_show_all_audio">Show All Audio</string>
+    <string name="context_menu_edit">Edit</string>
+    <string name="context_menu_delete">Delete</string>
+    <string name="context_menu_default_ringtone">Set as Default Ringtone</string>
+    <string name="context_menu_contact">Assign to Contact</string>
+    <string name="context_menu_default_notification">Set as Default Notification</string>
+    <string name="file_save_title">Save As:</string>
+    <string name="file_save_button_save">Save</string>
+    <string name="file_save_button_cancel">Cancel</string>
+    <string name="type_recording">Recording</string>
+    <string name="type_music">Music</string>
+    <string name="type_alarm">Alarm</string>
+    <string name="type_notification">Notification</string>
+    <string name="type_ringtone">Ringtone</string>
+    <string name="ringtone_name_label">Name:</string>
+    <string name="ringtone_type_label">Type:</string>
+</resources>

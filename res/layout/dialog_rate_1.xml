@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/imageView1" android:layout_width="wrap_content" android:layout_height="50.0dip" android:layout_marginLeft="5.0dip" android:src="@drawable/fivestar2" />
+    <TextView android:textSize="14.0dip" android:textStyle="bold" android:id="@id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="TextView" />
+    <TextView android:textSize="20.0sp" android:id="@id/text_dialog1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:layout_marginTop="10.0dip" android:text="@string/txtView" />
+    <TextView android:textSize="15.0sp" android:textColor="#ff000000" android:gravity="left" android:id="@id/text_dialog" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="4.0dip" android:layout_marginBottom="20.0dip" android:text="custom dialog" android:layout_below="@id/a" android:layout_centerHorizontal="true" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="20.0dip">
+        <Button android:textSize="12.0sp" android:textColor="#ff000000" android:id="@id/btn1" android:background="#ffffd545" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="@string/btnRateMe" android:textAllCaps="false" />
+        <Button android:textSize="12.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/btn2" android:background="@color/grey2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="5.0dip" android:text="@string/btnNo" android:textAllCaps="false" />
+        <Button android:textSize="12.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/btn3" android:background="@color/grey2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginRight="10.0dip" android:text="@string/btnDislike" android:textAllCaps="false" />
+    </LinearLayout>
+</RelativeLayout>

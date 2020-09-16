@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">التنقل إلى الشاشة الرئيسية</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات إضافية</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">تشغيل</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">القائمة+</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب البحث</string>
+    <string name="abc_searchview_description_search">بحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">البحث الصوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
+    <string name="about">حول التطبيق</string>
+    <string name="aboutActivityTitle">حول</string>
+    <string name="about_app_summary">تتيح لك App Share مشاركة التطبيقات بسهولة مع أصدقائك ، واستخراج التطبيقات على هاتفك وإلغاء تثبيت التطبيقات من هاتفك.</string>
+    <string name="about_app_title">حول</string>
+    <string name="about_player_service">خدمة تشغيل الصوتيات</string>
+    <string name="about_privacy_summary">نحن نعتبر خصوصية المستخدم ذات أهمية قصوى ونتخذ جميع الاحتياطات اللازمة لحماية خصوصية المستخدم أثناء استخدام تطبيقات الاندرويد الخاصة بنا.</string>
+    <string name="about_recorder_service">خدمة تسجيل الصوتيات</string>
+    <string name="about_translations">ساعدنا في ترجمة مسجل الصوت إلى لغتك الأم لإفادة مستخدمي لغتك</string>
+    <string name="action_ad">الاعلان</string>
+    <string name="action_consent">موافقة</string>
+    <string name="action_deleted_items">المهملات</string>
+    <string name="action_list_recordings">القائمة</string>
+    <string name="action_search">بحث التسجيلات..</string>
+    <string name="action_settings">الاعدادات</string>
+    <string name="adcame">ظهر الاعلان بنجاح</string>
+    <string name="adnotcame">لم يظهر الإعلان</string>
+    <string name="alarm">التنبيه</string>
+    <string name="alert_no_button">لا، شكرا.</string>
+    <string name="alert_ok_button">موافق</string>
+    <string name="alert_title_failure">خطأ</string>
+    <string name="alert_title_success">نجاح</string>
+    <string name="alert_yes_button">نعم، من فضلك!</string>
+    <string name="androidmarket" />
+    <string name="app_name">مسجل الصوت</string>
+    <string name="appversion">نسخة التطبيق:</string>
+    <string name="artist_name">مسجل الصوت</string>
+    <string name="bad_extension_error">عذرًا ، مسجل الصوت لم يتمكن بعد من تحرير الملفات من النوع</string>
+    <string name="brand">نوع الجهاز:</string>
+    <string name="btnDislike">لم يعجبني</string>
+    <string name="btnNo">لا شكرا</string>
+    <string name="btnRateMe">تقييم n5 نجوم</string>
+    <string name="cancel">الغاء</string>
+    <string name="cancel_label">الغاء</string>
+    <string name="choose_contact_ringtone_button">تخصيص لجهة اتصال</string>
+    <string name="choose_email_client">اختر بريد الكتروني عميل</string>
+    <string name="common_google_play_services_unknown_issue">‏لدى %1$s مشكلة في خدمات Google Play. يُرجى إعادة المحاولة.</string>
+    <string name="confirm_label">تأكيد</string>
+    <string name="connectplaystore">لا يمكن الاتصال بـ متجر Play</string>
+    <string name="contenttitle">مسجل الصوت</string>
+    <string name="context_menu_contact">تخصيص لجهة اتصال</string>
+    <string name="context_menu_default_notification">تعيين كإشعار افتراضي</string>
+    <string name="context_menu_default_ringtone">وضع كنغمة تنبيه افتراضية</string>
+    <string name="context_menu_delete">حذف</string>
+    <string name="context_menu_edit">تعديل</string>
+    <string name="couldNotOpenAndroidMarket">لا يمكن فتح سوق أندرويد.</string>
+    <string name="create_folder_error">لا يمكن انشاء المجلد</string>
+    <string name="create_folder_error_already_exists">المجلد موجود بالفعل</string>
+    <string name="create_folder_error_no_write_access">لا يمكن الكتابة في هذا المجلد</string>
+    <string name="create_folder_label">انشاء مجلد</string>
+    <string name="create_folder_msg">انشاء مجلد جديد باسم؟</string>
+    <string name="create_folder_success">تم انشاء المجلد</string>
+    <string name="creationtime">وقت الانشاء:</string>
+    <string name="default_notification_success_message">تم تغيير صوت الاشعارات الافتراضي</string>
+    <string name="default_ringtone_success_message">تم تغيير نغمة الرنين الافتراضية</string>
+    <string name="delete">حذف</string>
+    <string name="delete_permanentaly">الحذف بشكل نهائي</string>
+    <string name="deleteactivitytitle">تسجيلات محذوفة</string>
+    <string name="deleted">تم حذف السجل بنجاح</string>
+    <string name="deletefile">حذف الملف</string>
+    <string name="deletefilepermanently">احذف الملف نهائيًا</string>
+    <string name="do_nothing_with_ringtone_button">اغلاق</string>
+    <string name="duration">المدة:</string>
+    <string name="durationDecreasing">المدة تنقص</string>
+    <string name="durationIncreasing">المدة تزداد</string>
+    <string name="edit">تعديل</string>
+    <string name="editFile">تم تعديل الملف المحفوظ بنجاح</string>
+    <string name="edit_intent">تعديل</string>
+    <string name="end_label">انهاء:</string>
+    <string name="end_marker">نهاية العلامة</string>
+    <string name="exo_controls_fastforward_description">تقديم سريع</string>
+    <string name="exo_controls_fullscreen_description">وضع ملء الشاشة</string>
+    <string name="exo_controls_next_description">المقطع الصوتي التالي</string>
+    <string name="exo_controls_pause_description">إيقاف مؤقت</string>
+    <string name="exo_controls_play_description">تشغيل</string>
+    <string name="exo_controls_previous_description">المقطع الصوتي السابق</string>
+    <string name="exo_controls_repeat_all_description">تكرار الكل</string>
+    <string name="exo_controls_repeat_off_description">عدم التكرار</string>
+    <string name="exo_controls_repeat_one_description">تكرار مقطع صوتي واحد</string>
+    <string name="exo_controls_rewind_description">إرجاع</string>
+    <string name="exo_controls_shuffle_description">ترتيب عشوائي</string>
+    <string name="exo_controls_stop_description">إيقاف</string>
+    <string name="exo_download_completed">اكتمل التنزيل</string>
+    <string name="exo_download_description">تنزيل</string>
+    <string name="exo_download_downloading">جارٍ التنزيل.</string>
+    <string name="exo_download_failed">تعذّر التنزيل</string>
+    <string name="exo_download_notification_channel_name">التنزيلات</string>
+    <string name="exo_download_removing">جارٍ إزالة التنزيلات</string>
+    <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
+    <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_selection_auto">تلقائي</string>
+    <string name="exo_track_selection_none">بدون اختيار</string>
+    <string name="exo_track_selection_title_audio">صوت</string>
+    <string name="exo_track_selection_title_text">نص</string>
+    <string name="exo_track_selection_title_video">فيديو</string>
+    <string name="exo_track_stereo">استريو</string>
+    <string name="exo_track_surround">صوت مجسّم</string>
+    <string name="exo_track_surround_5_point_1">صوت مجسّم 5.1</string>
+    <string name="exo_track_surround_7_point_1">صوت مجسّم 7.1</string>
+    <string name="exo_track_unknown">غير معروف</string>
+    <string name="extension_last">mp3</string>
+    <string name="extension_last1">MP3</string>
+    <string name="faqs_details">" "<br></br> <b>" 
+ الأسئلة المتداولة "</b>         <br></br> <b>" 
+ 
+ • لقد حذفت تسجيلي عن طريق الخطأ. هل يمكنني استرجاع نفس الشيء؟ "</b>" 
+ يرجى التأكد من تمكين إعداد المهملات "<b> على </b>. في حال قمت بحذف تسجيلك عن طريق الخطأ ، فستتمكن من استعادته.         <br></br> <b>" 
+ 
+ • لا أستطيع مشاهدة تسجيلاتي. كيف يمكنني رؤية التسجيلات الخاصة بي؟ "</b>" 
+1. افتح التطبيق. 
+2. انقر على الإعدادات ، الزر الثاني من الزاوية اليمنى العليا. 
+3. تحقق من الإعداد الأول المسمى باسم مجلد التسجيل وهو يعرض المسار الذي يتم حفظ التسجيلات فيه. 
+4. انتقل إلى وحدة التخزين الداخلية باستخدام أي تطبيق أندرويد مدير الملفات وابحث في هذا المسار. 
+5. التسجيلات ستكون هناك.         "<br></br> <b>" 
+ 
+ • ما هي أفضل طريقة لحماية تسجيلاتي الهامة؟ "</b>" 
+ نوصي باستخدام خيار "<b> مشاركة </b> في قائمة شاشات التسجيلات لمشاركة / تحميل تسجيلاتك المهمة على السحابة مثل Google Drive أو DropBox وما إلى ذلك.          <br></br> <b>" 
+ 
+ • هل تسجيل المكالمات مدعوم؟ "</b>"     
+ لا ، تسجيل المكالمات غير مدعوم في هذا التطبيق. "</string>
+    <string name="feedback_dialog_body">"ساعدنا في تحسين هذا التطبيق!
+
+نرحب بتعليقاتكم واقتراحاتكم وتصحيحاتكم."</string>
+    <string name="feedbackmessage">"
+
+-----------------------------
+يرجى عدم إزالة هذه المعلومات  n نظام تشغيل الجهاز: Android  n إصدار نظام تشغيل الجهاز:"</string>
+    <string name="ffwd">ترسيع للأمام</string>
+    <string name="fileExists">اسم الملف موجود بالفعل</string>
+    <string name="fileExistsDefault">اسم الملف موجود بالفعل ، تم حفظ الملف بالاسم الافتراضي</string>
+    <string name="file_save_button_cancel">الغاء</string>
+    <string name="file_save_button_save">حفظ</string>
+    <string name="file_save_title">حفظ كـ:</string>
+    <string name="fileduration">المدة</string>
+    <string name="filelocation">مكان الملف</string>
+    <string name="filename">اسم الملف</string>
+    <string name="filesize">حجم الملف:</string>
+    <string name="gb">Gb</string>
+    <string name="gp">.3gp</string>
+    <string name="grant">منح</string>
+    <string name="hours">h</string>
+    <string name="information">معلومات بخصوص الملف</string>
+    <string name="inprogress">التسجيل قيد التقدم</string>
+    <string name="insert">أدخل اسم ملف جديد</string>
+    <string name="installDateNewestToOldest">اجدد تاريخ -> الاقدم</string>
+    <string name="installDateOldestToNewest">اقدم تاريخ -> الأجدد</string>
+    <string name="kb">Kb</string>
+    <string name="key_send_feedback">key_send_feedback</string>
+    <string name="licence_app">"
+&lt;b> Open Source Licences &lt;/b>
+&lt;br/>
+&lt;br/>• Android-DirectoryChooser - Copyright 2013-2016 Pascal Hartig -
+    &lt;a href=\"http://www.apache.org/licenses/LICENSE-2.0 \">Licence&lt;/a> &lt;br/>• Android-Audio-Visualizer - Copyright 2017 Gautam Chibde - &lt;a href=\"http://www.apache.org/licenses/LICENSE-2.0 \">Licence&lt;/a>
+&lt;br/>• Android-Ripple-Background - Copyright (c) 2014 Yao Yu
+    &lt;a href=\"https://github.com/skyfishjy/android-ripple-background/blob/master/LICENSE \">Licence&lt;/a> &lt;br/>• Gift Icon (iconfinder.com) - 298782 &lt;a href=\"https://opensource.org/licenses/MIT \">Licence&lt;/a>
+
+        &lt;br/>• Ringdroid - Copyright (C) 2008 - 2011 Google Inc.
+    &lt;a href=\"http://www.apache.org/licenses/LICENSE-2.0 \">Licence&lt;/a> &lt;a href=\"https://github.com/google/ringdroid/ \">Go to Site&lt;/a>
+
+        &lt;br/>• Scissors Icon (iconfinder.com) - 2561380
+    &lt;a href=\"https://opensource.org/licenses/MIT \">Licence&lt;/a> &lt;br/>• Rate Dialog Copyright (c) 2015 Shintaro Katafuchi &lt;a href=\"https://github.com/hotchemi/Android-Rate/blob/master/LICENSE \">Licence&lt;/a>
+
+
+
+        "</string>
+    <string name="licencesummary">تفاصيل الترخيص لبرنامج مفتوح المصدر</string>
+    <string name="licencetitle">تراخيص المصدر المفتوح</string>
+    <string name="listen">استماع</string>
+    <string name="location">مكان الملف:</string>
+    <string name="m4a">.m4a</string>
+    <string name="mail_feedback_email">raytechnoto@gmail.com</string>
+    <string name="mail_feedback_message">"مرحبا،
+
+
+
+اكتب ملاحظاتك هنا:"</string>
+    <string name="mail_feedback_subject">تقييم تطبيق مسجل الصوت</string>
+    <string name="mail_translate_message" />
+    <string name="make_default_ringtone_button">وضع كافتراضي</string>
+    <string name="manufacture">مصنع الجهاز:</string>
+    <string name="mb">Mb</string>
+    <string name="media_path">/QuickVoiceRecorder/Audios</string>
+    <string name="menu_about">حول</string>
+    <string name="menu_reset">اعادة ضبط</string>
+    <string name="menu_save">حفظ</string>
+    <string name="menu_show_all_audio">عرض كل الصوتيات</string>
+    <string name="message">تأكيد الاسم مطلوب</string>
+    <string name="message_not">تأكيد الاسم غير مطلوب</string>
+    <string name="minutes">m</string>
+    <string name="model">موديل الجهاز:</string>
+    <string name="moreoptions">المزيد من الخيارات</string>
+    <string name="mp3">.mp3</string>
+    <string name="music">الموسيقى</string>
+    <string name="myrecording">تسجيلاتي #</string>
+    <string name="nameAZ">الاسم A -> Z</string>
+    <string name="nameZA">الاسم Z -> A</string>
+    <string name="newfile">ادخل اسم ملف جديد</string>
+    <string name="nextoff">وضع تشغيل التالي مغلق</string>
+    <string name="nexton">وضع تشغيل التالي مفتوح</string>
+    <string name="no_extension_error">عذرًا ، يتعذر على تطبيق مسجل الصوت تحرير ملف إذا لم يكن له امتداد مثل. mp3 أو .wav</string>
+    <string name="no_space_error">بطاقة SD ممتلئة ، لا توجد مساحة كافية لحفظ هذا الملف.</string>
+    <string name="no_unique_filename">غير قادر على العثور على اسم ملف الملف</string>
+    <string name="notification">الإشعار</string>
+    <string name="ok">موافق</string>
+    <string name="openWith">فتح بواسطة</string>
+    <string name="pause">تم ايقاف التسجيل</string>
+    <string name="permission">يجب منح أذونات لاستخدام هذا التطبيق. التطبيق يقوم بالخروج.</string>
+    <string name="play">تشغيل</string>
+    <string name="play_error">غير قادر على تشغيل ملف الوسائط هذا</string>
+    <string name="pref_header_about">الدعم</string>
+    <string name="press">انقر الزر للتسجيل</string>
+    <string name="pressstop">اضغط على زر لإيقاف التسجيل</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="privacypolicyurl">https://raytechnoto.github.io/privacy-policy/</string>
+    <string name="progress">التسجيل قيد العمل</string>
+    <string name="progress_dialog_cancel">الغاء</string>
+    <string name="progress_dialog_loading">جار التحميل</string>
+    <string name="progress_dialog_recording">جار التسجيل</string>
+    <string name="progress_dialog_saving">جار الحفظ</string>
+    <string name="progress_dialog_stop">وقف</string>
+    <string name="rate1">إذا كنت تحب استخدام</string>
+    <string name="rate2">, يرجى ان نتوقف لحظة لتقييمه.</string>
+    <string name="rate3">شكرا لدعمك!</string>
+    <string name="rateDialogTitle">تقييم التطبيق</string>
+    <string name="rate_Summary">"يرجى ان نتوقف لحظة لتقييم مسجل الصوت ،
+شكرا لدعمك!"</string>
+    <string name="rate_dialog_body">إذا كنت ترغب في استخدام تطبيق مسجل الصوت، فالرجاء تخصيص بعض الوقت لتقييمه. شكرا لدعمك!</string>
+    <string name="rate_dialog_message">إذا كنت تستمتع باستخدام هذا التطبيق ، فهل تمانع في قضاء بعض الوقت لتقييمه؟ لن يستغرق الأمر أكثر من دقيقة. شكرا لدعمك!</string>
+    <string name="ratenew">نحن فريق صغير نعمل بجد لنقدم لك أفضل التطبيقات المجانية! إن تقييم 5 نجوم يستحق أكثر من كل الأموال. يرجى كتابة مراجعة لطيفة في Google Play لتشجيعنا!</string>
+    <string name="read_error">خطأ في قراءة الملف</string>
+    <string name="record_error">خطأ في تسجيل الصوت</string>
+    <string name="recording">جار التسجيل</string>
+    <string name="recording_file_name">اسم ملف التسجيل</string>
+    <string name="recording_file_type">نوع ملف التسجيل</string>
+    <string name="recording_folder_path">مجلد التسجيل</string>
+    <string name="recording_name_confirmation_summary_off">يتم حفظ ملف التسجيل بالاسم الافتراضي</string>
+    <string name="recording_name_confirmation_summary_on">ادخل اسم الملف بعد التسجيل</string>
+    <string name="recording_name_confirmation_title">تأكيد اسم ملف التسجيل</string>
+    <string name="recording_quality">معدل العينة</string>
+    <string name="recording_started">بدأ التسجيل</string>
+    <string name="recordingoption">خيارات التسجيل</string>
+    <string name="recordings_save">الرجاء الانتظار ..... يتم حفظ التسجيل.</string>
+    <string name="recordingsaved">تم حفظ التسجيل بنجاح</string>
+    <string name="remindme">ذكرني لاحقا</string>
+    <string name="rename">اعادة تسمية</string>
+    <string name="repeatoff">وضع التكرار مغلق</string>
+    <string name="repeaton">وضع التكرار مفتوح</string>
+    <string name="restore">استعادة</string>
+    <string name="restored_status">تمت استعادة السجل بنجاح</string>
+    <string name="restorefile">استعادة الملف</string>
+    <string name="rewind">الترجيع</string>
+    <string name="ringtone">نغمة التنبيه</string>
+    <string name="ringtone_name_label">الاسم:</string>
+    <string name="ringtone_type_label">النوع:</string>
+    <string name="s1">حفظ الصورة</string>
+    <string name="s2">هل تريد السماح للإعلان بتخزين الصورة في معرض الصور؟</string>
+    <string name="s3">قبول</string>
+    <string name="s4">رفض</string>
+    <string name="s5">إنشاء حدث تقويم</string>
+    <string name="s6">هل تريد السماح للإعلان بإنشاء حدث تقويم؟</string>
+    <string name="s7">إعلان تجريبي</string>
+    <string name="save_button">حفظ</string>
+    <string name="save_success_message">تم الحفظ!</string>
+    <string name="saveas">نغمة التنبيه</string>
+    <string name="saved">تم حفظ التسجيل</string>
+    <string name="searchQueryHint">بحث التسجيلات..</string>
+    <string name="search_menu_title">البحث</string>
+    <string name="seconds">s</string>
+    <string name="section_format">مرحبا أيها العالم من قسم: %1$d</string>
+    <string name="select_sort_order">ترتيب فرز التسجيلات</string>
+    <string name="selected_folder_label">المجلد المحدد:</string>
+    <string name="setAs">وضع كنغمة تنبيه</string>
+    <string name="set_default_notification">تم الحفظ! جعل هذا الإخطار الافتراضي الخاص بك؟</string>
+    <string name="share">مشاركة</string>
+    <string name="sharefile">مشاركة ملف الصوت</string>
+    <string name="show_apps">عرض التطبيقات</string>
+    <string name="size">حجم الملف</string>
+    <string name="sizeDecreasing">الحجم ينقص</string>
+    <string name="sizeIncreasing">الحجم يزداد</string>
+    <string name="sort">فرز</string>
+    <string name="sort_apps">فرز التطبيقات</string>
+    <string name="sortorder">حدد ترتيب الفرز</string>
+    <string name="start_label">بدء:</string>
+    <string name="start_marker">بداية علامة</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop">ايقاف</string>
+    <string name="storagepermission">تحتاج اذن وصول للذاكرة</string>
+    <string name="storagepermissionmessage">يحتاج هذا التطبيق إلى إذن تخزين</string>
+    <string name="subject">مراجعات مسجل الصوت</string>
+    <string name="summary_faqs">أسئلة مكررة</string>
+    <string name="summary_support">أخبرنا المزيد عن المشكلات التي تواجهها مع التطبيق</string>
+    <string name="time">تم الانشاء</string>
+    <string name="time_seconds">ثوان</string>
+    <string name="title">سياسة الخصوصية</string>
+    <string name="title_Settings_activity">الاعدادات</string>
+    <string name="title_activity_android_building_music_player">المشغل</string>
+    <string name="title_activity_app_compat_preference">AppCompatPreferenceActivity</string>
+    <string name="title_activity_rate">تقييم النشاط</string>
+    <string name="title_activity_recording_self">RecordingActivitySelf</string>
+    <string name="title_activity_recordings">التسجيلات</string>
+    <string name="title_faqs">أسئلة وأجوبة</string>
+    <string name="title_send_feedback">ارسال التقييم</string>
+    <string name="too_small_error">لا يمكن حفظ ملف بهذا الحجم الصغير ، حاول جعله أطول.</string>
+    <string name="translations">ساعدنا في الترجمة</string>
+    <string name="trash_size">المهملات بحجم</string>
+    <string name="trashcontent">سيتم نقل الملفات إلى سلة المهملات عند حذفها</string>
+    <string name="trashcontentoff">سيتم حذف التسجيلات نهائيًا ولا يمكن استعادتها</string>
+    <string name="txtView">تقييم 5 نجوم</string>
+    <string name="type_alarm">التنبيه</string>
+    <string name="type_music">الموسيقى</string>
+    <string name="type_notification">الاشعارات</string>
+    <string name="type_recording">جار التسجيل</string>
+    <string name="type_ringtone">نغمة التنبيه</string>
+    <string name="unable">غير قادر على الحصول على اذن</string>
+    <string name="up_label">خلف</string>
+    <string name="viewDetail">عرض التفاصيل</string>
+    <string name="volumeup">من فضلك ارفع الصوت</string>
+    <string name="wav">.wav</string>
+    <string name="what_to_do_with_ringtone">تم الحفظ! اجعل هذا نغمة الرنين الافتراضية الخاصة بك أو قم بتعيينها لجهة اتصال؟</string>
+    <string name="write_error">خطأ في كتابة الملف</string>
+    <string name="zoom_in">تكبير</string>
+    <string name="zoom_out">تصغير</string>
+</resources>

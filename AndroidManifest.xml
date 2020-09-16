@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="28" android:compileSdkVersionCodename="9" package="com.raytechnoto.glab.voicerecorder" platformBuildVersionCode="28" platformBuildVersionName="9">
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <application android:allowBackup="true" android:appComponentFactory="android.support.v4.app.CoreComponentFactory" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:name="com.raytechnoto.glab.voicerecorder.SubApplication" android:supportsRtl="true" android:theme="@style/AppLightTheme">
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID" android:value="ca-app-pub-3944607763682685~9007760161"/>
+        <meta-data android:name="applovin.sdk.key" android:value="FK-Uzf4I79hWc1k1QUiTu_6sOWFD9EPc--LdkyZJ4sKNPOVh1hhl5Mhwfm84B_2VkazVVOXdcDMGlcZ2xrK-8g"/>
+        <activity android:configChanges="orientation|screenSize" android:hardwareAccelerated="true" android:name="com.applovin.adview.AppLovinInterstitialActivity" android:screenOrientation="behind"/>
+        <activity android:configChanges="orientation|screenSize" android:name="com.applovin.adview.AppLovinConfirmationActivity"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.mopub.mobileads.MoPubActivity"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.mopub.mobileads.MraidActivity"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.mopub.common.MoPubBrowser"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.mopub.mobileads.MraidVideoPlayerActivity"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.mopub.mobileads.RewardedMraidActivity"/>
+        <activity android:label="@string/app_name" android:launchMode="singleTask" android:name="com.raytechnoto.glab.voicerecorder.MainActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:label="@string/title_activity_android_building_music_player" android:name="com.raytechnoto.glab.voicerecorder.AndroidBuildingMusicPlayerActivity" android:screenOrientation="portrait">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".MainActivity"/>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:label="@string/title_activity_recordings" android:name="com.raytechnoto.glab.voicerecorder.RecordingsActivity" android:parentActivityName="com.raytechnoto.glab.voicerecorder.MainActivity" android:screenOrientation="portrait">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.raytechnoto.glab.voicerecorder.MainActivity"/>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:label="@string/title_activity_recording_self" android:name="com.raytechnoto.glab.voicerecorder.RecordingActivitySelf" android:parentActivityName="com.raytechnoto.glab.voicerecorder.MainActivity" android:screenOrientation="portrait">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.raytechnoto.glab.voicerecorder.MainActivity"/>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:label="@string/title_activity_app_compat_preference" android:name="com.raytechnoto.glab.voicerecorder.AppCompatPreferenceActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:label="@string/title_Settings_activity" android:name="com.raytechnoto.glab.voicerecorder.SettingsPrefActivity" android:screenOrientation="portrait">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.raytechnoto.glab.voicerecorder.MainActivity"/>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="com.raytechnoto.glab.voicerecorder.About" android:screenOrientation="portrait">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.raytechnoto.glab.voicerecorder.MainActivity"/>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="com.raytechnoto.glab.voicerecorder.RingdroidEditActivity" android:screenOrientation="portrait">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.raytechnoto.glab.voicerecorder.MainActivity"/>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="com.raytechnoto.glab.voicerecorder.Translate" android:screenOrientation="portrait">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:screenOrientation="portrait" android:value="com.raytechnoto.glab.voicerecorder.MainActivity"/>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="com.raytechnoto.glab.voicerecorder.PrivacyPolicy" android:screenOrientation="portrait">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:screenOrientation="portrait" android:value="com.raytechnoto.glab.voicerecorder.MainActivity"/>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="net.rdrei.android.dirchooser.DirectoryChooserActivity" android:screenOrientation="portrait"/>
+        <service android:description="@string/about_recorder_service" android:exported="false" android:name="com.raytechnoto.glab.voicerecorder.AudioRecorderService"/>
+        <service android:enabled="true" android:exported="false" android:name="com.raytechnoto.glab.voicerecorder.AudioPlayerService"/>
+        <provider android:authorities="com.raytechnoto.glab.voicerecorder.com.raytechnoto.glab.voicerecorder.provider" android:exported="false" android:grantUriPermissions="true" android:name="com.raytechnoto.glab.voicerecorder.GenericFileProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/provider_paths"/>
+        </provider>
+        <activity android:name="com.raytechnoto.glab.voicerecorder.Licence"/>
+        <activity android:label="@string/title_activity_rate" android:name="com.raytechnoto.glab.voicerecorder.RateActivity" android:parentActivityName="com.raytechnoto.glab.voicerecorder.MainActivity" android:theme="@style/AppLightTheme.NoActionBar">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.raytechnoto.glab.voicerecorder.MainActivity"/>
+        </activity>
+        <activity android:name="com.raytechnoto.glab.voicerecorder.FrequentlyAskedQuestions"/>
+        <activity android:label="@string/title_activity_my_billing" android:name="com.raytechnoto.glab.voicerecorder.MyBilling" android:theme="@style/AppLightTheme.NoActionBar"/>
+        <activity android:label="@string/title_activity_main_bottom" android:name="com.raytechnoto.glab.voicerecorder.MainBottomActivity"/>
+        <activity android:label="@string/title_activity_main_tabbed" android:name="com.raytechnoto.glab.voicerecorder.MainTabbedActivity" android:theme="@style/AppLightTheme.NoActionBar"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="false" android:name="com.facebook.ads.AudienceNetworkActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="false" android:name="com.facebook.ads.internal.ipc.RemoteANActivity" android:process=":adnw" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <service android:exported="false" android:name="com.facebook.ads.internal.ipc.AdsProcessPriorityService"/>
+        <service android:exported="false" android:name="com.facebook.ads.internal.ipc.AdsMessengerService" android:process=":adnw"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="false" android:name="com.google.android.gms.ads.AdActivity" android:theme="@android:style/Theme.Translucent"/>
+        <provider android:authorities="com.raytechnoto.glab.voicerecorder.mobileadsinitprovider" android:exported="false" android:initOrder="100" android:name="com.google.android.gms.ads.MobileAdsInitProvider"/>
+        <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.applovin.sdk.AppLovinWebViewActivity"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.applovin.mediation.MaxDebuggerActivity" android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.applovin.mediation.MaxDebuggerDetailActivity" android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme"/>
+        <meta-data android:name="string" android:value="string"/>
+        <meta-data android:name="com.android.vending.derived.apk.id" android:value="1"/>
+    </application>
+</manifest>

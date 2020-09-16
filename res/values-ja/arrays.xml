@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sortOptions">
+        <item>@string/nameAZ</item>
+        <item>@string/nameZA</item>
+        <item>@string/sizeIncreasing</item>
+        <item>@string/sizeDecreasing</item>
+        <item>@string/durationIncreasing</item>
+        <item>@string/durationDecreasing</item>
+        <item>@string/installDateNewestToOldest</item>
+        <item>@string/installDateOldestToNewest</item>
+    </string-array>
+</resources>

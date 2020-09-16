@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
+    <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
+    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_capital_off">DESACTIVADO</string>
+    <string name="abc_capital_on">ACTIVADO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Eliminar</string>
+    <string name="abc_menu_enter_shortcut_label">Intro</string>
+    <string name="abc_menu_function_shortcut_label">Función +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Mayús +</string>
+    <string name="abc_menu_space_shortcut_label">Espacio</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menú +</string>
+    <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_query">Consulta</string>
+    <string name="abc_searchview_description_search">Buscar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="about">Acerca de App</string>
+    <string name="aboutActivityTitle">Acerca de</string>
+    <string name="about_app_summary">Compartir aplicaciones te permite compartir fácilmente aplicaciones con tus amigos, extraer aplicaciones de tu teléfono y desinstalar aplicaciones de tu teléfono..</string>
+    <string name="about_app_title">Acerca de</string>
+    <string name="about_player_service">Servicio de reproducción de audio</string>
+    <string name="about_privacy_summary">" Consideramos que la privacidad del usuario es de suma importancia y tomamos todas las precauciones para proteger la privacidad del usuario durante el uso de nuestras aplicaciones para android.."</string>
+    <string name="about_recorder_service">Servicio de grabación de audio</string>
+    <string name="about_translations">Ayúdenos a traducir la grabadora de voz a su idioma nativo para beneficiar a los usuarios de su idioma</string>
+    <string name="action_ad">Ad</string>
+    <string name="action_consent">Consentimiento</string>
+    <string name="action_deleted_items">Papelera</string>
+    <string name="action_list_recordings">Lista</string>
+    <string name="action_search">Buscar grabaciones..</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="adcame">El anuncio llegó con éxito</string>
+    <string name="adnotcame">El anuncio no llegó</string>
+    <string name="alarm">Alarma</string>
+    <string name="alert_no_button">No, gracias.</string>
+    <string name="alert_ok_button">OK</string>
+    <string name="alert_title_failure">Error</string>
+    <string name="alert_title_success">Éxito</string>
+    <string name="alert_yes_button">Sí, por favor!</string>
+    <string name="androidmarket" />
+    <string name="app_name">Grabadora de voz</string>
+    <string name="appversion">versión de aplicación:</string>
+    <string name="artist_name">Grabadora de voz</string>
+    <string name="bad_extension_error">Lo sentimos, la grabadora de voz no es capaz de editar archivos de tipo</string>
+    <string name="brand">Device Brand:</string>
+    <string name="btnDislike">No me gusta</string>
+    <string name="btnNo">No, gracias</string>
+    <string name="btnRateMe">"Puntuar
+5 estrellas"</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cancel_label">Cancelar</string>
+    <string name="choose_contact_ringtone_button">Asignar a un contacto</string>
+    <string name="choose_email_client">Elija un cliente de correo electrónico</string>
+    <string name="common_google_play_services_unknown_issue">La aplicación %1$s tiene problemas con los Servicios de Google Play. Vuelve a intentarlo.</string>
+    <string name="confirm_label">Confirmar</string>
+    <string name="connectplaystore">No se pudo conectar a Play Store</string>
+    <string name="contenttitle">Grabadora de voz</string>
+    <string name="context_menu_contact">Asignar a un contacto</string>
+    <string name="context_menu_default_notification">Fijar como aviso por defecto</string>
+    <string name="context_menu_default_ringtone">Establecer como tono de llamada predeterminado</string>
+    <string name="context_menu_delete">Borrar</string>
+    <string name="context_menu_edit">Editar</string>
+    <string name="couldNotOpenAndroidMarket">No se pudo abrir el mercado Android.</string>
+    <string name="create_folder_error">No se pudo crear la carpeta</string>
+    <string name="create_folder_error_already_exists">La carpeta ya existe</string>
+    <string name="create_folder_error_no_write_access">No se puede escribir en esta carpeta</string>
+    <string name="create_folder_label">Crear carpeta</string>
+    <string name="create_folder_msg">¿Crear nueva carpeta con nombre?</string>
+    <string name="create_folder_success">Carpeta creada</string>
+    <string name="creationtime">Tiempo de creación:</string>
+    <string name="default_notification_success_message">Cambiado el sonido de notificación predeterminado</string>
+    <string name="default_ringtone_success_message">Cambiado el tono de timbre predeterminado</string>
+    <string name="delete">" Borrar "</string>
+    <string name="delete_permanentaly">borrar permanentemente</string>
+    <string name="deleteactivitytitle">Grabaciones Borradas</string>
+    <string name="deleted">Registro borrado con éxito</string>
+    <string name="deletefile">Borrar Archivo</string>
+    <string name="deletefilepermanently">Eliminar archivo permanentemente</string>
+    <string name="do_nothing_with_ringtone_button">Cerrar</string>
+    <string name="duration">Duración:</string>
+    <string name="durationDecreasing">" Duración Disminución "</string>
+    <string name="durationIncreasing">" Aumento de la duración "</string>
+    <string name="edit">Editar</string>
+    <string name="editFile">Archivo editado guardado con éxito</string>
+    <string name="edit_intent">Editar</string>
+    <string name="end_label">FIN :</string>
+    <string name="end_marker">Marcador final</string>
+    <string name="exo_controls_fastforward_description">Avanzar rápidamente</string>
+    <string name="exo_controls_fullscreen_description">Modo de pantalla completa</string>
+    <string name="exo_controls_next_description">Siguiente pista</string>
+    <string name="exo_controls_pause_description">Pausar</string>
+    <string name="exo_controls_play_description">Reproducir</string>
+    <string name="exo_controls_previous_description">Pista anterior</string>
+    <string name="exo_controls_repeat_all_description">Repetir todo</string>
+    <string name="exo_controls_repeat_off_description">No repetir</string>
+    <string name="exo_controls_repeat_one_description">Repetir uno</string>
+    <string name="exo_controls_rewind_description">Rebobinar</string>
+    <string name="exo_controls_shuffle_description">Reproducir aleatoriamente</string>
+    <string name="exo_controls_stop_description">Detener</string>
+    <string name="exo_download_completed">Descarga de archivos completado</string>
+    <string name="exo_download_description">Descargar</string>
+    <string name="exo_download_downloading">Descargando</string>
+    <string name="exo_download_failed">No se ha podido descargar</string>
+    <string name="exo_download_notification_channel_name">Descargas</string>
+    <string name="exo_download_removing">Quitando descargas</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d×%2$d</string>
+    <string name="exo_track_selection_auto">Automático</string>
+    <string name="exo_track_selection_none">Ninguna</string>
+    <string name="exo_track_selection_title_audio">Audio</string>
+    <string name="exo_track_selection_title_text">Texto</string>
+    <string name="exo_track_selection_title_video">Vídeo</string>
+    <string name="exo_track_stereo">Estéreo</string>
+    <string name="exo_track_surround">Sonido envolvente</string>
+    <string name="exo_track_surround_5_point_1">Sonido envolvente 5.1</string>
+    <string name="exo_track_surround_7_point_1">Sonido envolvente 7.1</string>
+    <string name="exo_track_unknown">Desconocido</string>
+    <string name="extension_last">mp3</string>
+    <string name="extension_last1">MP3</string>
+    <string name="faqs_details">" "<br></br> <b>"
+ Preguntas frecuentes"</b>         <br></br> <b>"
+ 
+ • Eliminé accidentalmente mi grabación. ¿Puedo recuperar lo mismo? "</b>" 
+ Asegúrese de habilitar la configuración de la Papelera "<b> EN </b>. En caso de que elimine accidentalmente su grabación, podrá restaurarla.         <br></br> <b>" 
+ 
+ • No puedo ver mis grabaciones. ¿Cómo puedo ver mis grabaciones? "</b>" 
+1. Abre la app. 
+2. Haga clic en configuración, segundo botón desde la esquina superior derecha. 
+3. Consulte la primera configuración denominada Carpeta de grabación, que muestra la ruta donde se guardan las grabaciones. 
+4. Vaya al almacenamiento interno utilizando cualquier aplicación de Android del administrador de archivos y busque esa ruta. 
+5. Las grabaciones estarán allí.         "<br></br> <b>" 
+ 
+ • ¿Cuál es la mejor manera de proteger mis grabaciones importantes? "</b>" 
+ Recomendamos utilizar la opción "<b> Compartir </b> en la lista de pantallas de grabaciones para compartir / cargar sus grabaciones importantes en la nube como Google Drive o DropBox, etc.          <br></br> <b>" 
+ 
+ • ¿Se admite la grabación de llamadas? "</b>"     
+ No, la grabación de llamadas no es compatible con esta aplicación.         "</string>
+    <string name="feedback_dialog_body">" Ayúdanos a mejorar esta aplicación!
+
+Agradecemos sus comentarios, sugerencias y correcciones."</string>
+    <string name="feedbackmessage">"
+
+-----------------------------
+ Por favor, no elimine esta información 
+ Dispositivo OS: Androide 
+ Dispositivo Versión OS:"</string>
+    <string name="ffwd">Avance rápido</string>
+    <string name="fileExists">Nombre de archivo ya existe</string>
+    <string name="fileExistsDefault">Nombre de archivo ya existe, Archivo guardado con nombre predeterminado</string>
+    <string name="file_save_button_cancel">Cancelar</string>
+    <string name="file_save_button_save">Guardar</string>
+    <string name="file_save_title">Guardar como:</string>
+    <string name="fileduration">DURACIÓN</string>
+    <string name="filelocation">LOCALIZACIÓN DE ARCHIVOS</string>
+    <string name="filename">NOMBRE DE ARCHIVO</string>
+    <string name="filesize">Tamaño del archivo:</string>
+    <string name="gb">Gb</string>
+    <string name="gp">.3gp</string>
+    <string name="grant">Conceder</string>
+    <string name="hours">h</string>
+    <string name="information">Información sobre el archivo</string>
+    <string name="inprogress">Grabación está en progreso</string>
+    <string name="insert">Insertar un nuevo nombre de archivo</string>
+    <string name="installDateNewestToOldest">" Fecha Último -> Oldest"</string>
+    <string name="installDateOldestToNewest">" Fecha Más Viejo -> Más Nuevo "</string>
+    <string name="kb">Kb</string>
+    <string name="key_send_feedback">key_send_feedback</string>
+    <string name="licence_app">"
+&lt;b> Open Source Licences &lt;/b>
+&lt;br/>
+&lt;br/>• Android-DirectoryChooser - Copyright 2013-2016 Pascal Hartig -
+    &lt;a href=\"http://www.apache.org/licenses/LICENSE-2.0 \">Licence&lt;/a> &lt;br/>• Android-Audio-Visualizer - Copyright 2017 Gautam Chibde - &lt;a href=\"http://www.apache.org/licenses/LICENSE-2.0 \">Licence&lt;/a>
+&lt;br/>• Android-Ripple-Background - Copyright (c) 2014 Yao Yu
+    &lt;a href=\"https://github.com/skyfishjy/android-ripple-background/blob/master/LICENSE \">Licence&lt;/a> &lt;br/>• Gift Icon (iconfinder.com) - 298782 &lt;a href=\"https://opensource.org/licenses/MIT \">Licence&lt;/a>
+
+        &lt;br/>• Ringdroid - Copyright (C) 2008 - 2011 Google Inc.
+    &lt;a href=\"http://www.apache.org/licenses/LICENSE-2.0 \">Licence&lt;/a> &lt;a href=\"https://github.com/google/ringdroid/ \">Go to Site&lt;/a>
+
+        &lt;br/>• Scissors Icon (iconfinder.com) - 2561380
+    &lt;a href=\"https://opensource.org/licenses/MIT \">Licence&lt;/a> &lt;br/>• Rate Dialog Copyright (c) 2015 Shintaro Katafuchi &lt;a href=\"https://github.com/hotchemi/Android-Rate/blob/master/LICENSE \">Licence&lt;/a>
+
+
+
+        "</string>
+    <string name="licencesummary">Detalles de la licencia para software de código abierto</string>
+    <string name="licencetitle">Licencias de código abierto</string>
+    <string name="listen">" Escuchar "</string>
+    <string name="location">Localización del archivo:</string>
+    <string name="m4a">.m4a</string>
+    <string name="mail_feedback_email">raytechnoto@gmail.com</string>
+    <string name="mail_feedback_message">" Hola,
+
+
+
+Escriba sus comentarios aquí:"</string>
+    <string name="mail_feedback_subject">Retroalimentación sobre la grabadora de voz</string>
+    <string name="mail_translate_message" />
+    <string name="make_default_ringtone_button">Establecer valores por defecto</string>
+    <string name="manufacture">Fabricante del dispositivo:</string>
+    <string name="mb">Mb</string>
+    <string name="media_path">Grabadora rápida de voz/audios</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_reset">Reiniciar</string>
+    <string name="menu_save">Guardar</string>
+    <string name="menu_show_all_audio">Mostrar todo el audio</string>
+    <string name="message">Se pide confirmación de nombre</string>
+    <string name="message_not">No se pide confirmación de nombre</string>
+    <string name="minutes">m</string>
+    <string name="model">Device Model:</string>
+    <string name="moreoptions">Más opciones</string>
+    <string name="mp3">.mp3</string>
+    <string name="music">música</string>
+    <string name="myrecording">Mi grabación #</string>
+    <string name="nameAZ">" Nombre A -> Z "</string>
+    <string name="nameZA">" Nombre Z -> A"</string>
+    <string name="newfile">Introduzca un nuevo nombre de archivo</string>
+    <string name="nextoff">El siguiente modo de reproducción está APAGADO</string>
+    <string name="nexton">EL siguiente modo de reproducción está activado</string>
+    <string name="no_extension_error">Lo sentimos, la grabadora de voz no puede editar un archivo si no tiene una extensión como.mp3 or .wav</string>
+    <string name="no_space_error">Su tarjeta SD está llena, no hay suficiente espacio para guardar este archivo.</string>
+    <string name="no_unique_filename">No se puede encontrar un nombre de archivo único</string>
+    <string name="notification">Notificación</string>
+    <string name="ok">OK</string>
+    <string name="openWith">" Abrir con "</string>
+    <string name="pause">La grabación está en pausa</string>
+    <string name="permission">Debe conceder permisos para usar esta aplicación. la aplicación está saliendo.</string>
+    <string name="play">Jugar</string>
+    <string name="play_error">No se puede reproducir este archivo multimedia</string>
+    <string name="pref_header_about">Soporte</string>
+    <string name="press">Presione el botón para grabar</string>
+    <string name="pressstop">Presione el botón para detener la grabación</string>
+    <string name="privacy_policy">Política de privacidad</string>
+    <string name="privacypolicyurl">https://raytechnoto.github.io/privacy-policy/</string>
+    <string name="progress">LA GRABACIÓN ESTÁ EN PROGRESO</string>
+    <string name="progress_dialog_cancel">Cancelar</string>
+    <string name="progress_dialog_loading">Cargando</string>
+    <string name="progress_dialog_recording">Grabación</string>
+    <string name="progress_dialog_saving">Ahorro</string>
+    <string name="progress_dialog_stop">Parar</string>
+    <string name="rate1">Si te gusta usar</string>
+    <string name="rate2">, por favor, tómese un momento para calificarlo.</string>
+    <string name="rate3">Gracias por su apoyo!</string>
+    <string name="rateDialogTitle">Tipo de cambio</string>
+    <string name="rate_Summary">" Por favor, tómese un momento para evaluar la grabadora de voz,
+Gracias por su apoyo!"</string>
+    <string name="rate_dialog_body">" Si le gusta usar una grabadora de voz, por favor tómese un momento para calificarla.
+Gracias por su apoyo!"</string>
+    <string name="rate_dialog_cancel">Recuérdamelo más tarde</string>
+    <string name="rate_dialog_message">Si te gusta usar esta aplicación, ¿te importaría tomarte un momento para calificarla? No tomará más de un minuto. Gracias por su apoyo!</string>
+    <string name="rate_dialog_no">¡No, gracias!</string>
+    <string name="rate_dialog_ok">Valorar ahora</string>
+    <string name="rate_dialog_title">Valorar la aplicación</string>
+    <string name="ratenew">Somos un equipo pequeño que trabaja muy duro para ofrecerte las mejores aplicaciones gratuitas. Su revisión de 5 estrellas vale más que todo el dinero. ¡Por favor escribe una buena reseña en Google Play para alentarnos!</string>
+    <string name="read_error">Error al leer el archivo</string>
+    <string name="record_error">Error de grabación de audio</string>
+    <string name="recording">grabación</string>
+    <string name="recording_file_name">Nombre del archivo de grabación</string>
+    <string name="recording_file_type">Tipo de archivo de grabación</string>
+    <string name="recording_folder_path">Carpeta de grabación</string>
+    <string name="recording_name_confirmation_summary_off">El archivo de grabación se guarda con el nombre predeterminado</string>
+    <string name="recording_name_confirmation_summary_on">Introduzca el nombre del archivo después de la grabación</string>
+    <string name="recording_name_confirmation_title">Confirmación del nombre del archivo de grabación</string>
+    <string name="recording_quality">Frecuencia de muestreo</string>
+    <string name="recording_started">Grabación iniciada</string>
+    <string name="recordingoption">Opciones de grabación</string>
+    <string name="recordings_save">Por favor espere ..... la grabación se está guardando.</string>
+    <string name="recordingsaved">GRABACIÓN GUARDADA CON ÉXITO</string>
+    <string name="remindme">Recuérdamelo más tarde</string>
+    <string name="rename">" Renombrar "</string>
+    <string name="repeatoff">El modo de repetición está desactivado</string>
+    <string name="repeaton">El modo de repetición está activado</string>
+    <string name="restore">restaurar</string>
+    <string name="restored_status">Registro restaurado con éxito</string>
+    <string name="restorefile">Restaurar archivo</string>
+    <string name="rewind">Rebobinar</string>
+    <string name="ringtone">Tono</string>
+    <string name="ringtone_name_label">Nombre:</string>
+    <string name="ringtone_type_label">Tipo:</string>
+    <string name="s1">Guardar imagen</string>
+    <string name="s2">¿Permitir que el anuncio almacene imágenes en la galería de imágenes?</string>
+    <string name="s3">Aceptar</string>
+    <string name="s4">Rechazar</string>
+    <string name="s5">Crear evento de calendario</string>
+    <string name="s6">¿Permitir que el anuncio cree un evento de calendario?</string>
+    <string name="s7">Anuncio de prueba</string>
+    <string name="save_button">Guardar</string>
+    <string name="save_success_message">Guardo!</string>
+    <string name="saveas">Tono</string>
+    <string name="saved">SE GUARDA LA GRABACIÓN</string>
+    <string name="searchQueryHint">Buscar grabaciones..</string>
+    <string name="search_menu_title">Buscar</string>
+    <string name="seconds">s</string>
+    <string name="section_format">Hola Mundo de la sección: %1$d</string>
+    <string name="select_sort_order">Orden de clasificación de las grabaciones</string>
+    <string name="selected_folder_label">Carpeta elegida:</string>
+    <string name="setAs">" Establecer como tono de llamada "</string>
+    <string name="set_default_notification">Salvado! ¿Hacer que esta sea su notificación predeterminada?</string>
+    <string name="share">" Compartir "</string>
+    <string name="sharefile">Compartir archivo de audio</string>
+    <string name="show_apps">Mostrar aplicaciones</string>
+    <string name="size">TAMAÑO DEL ARCHIVO</string>
+    <string name="sizeDecreasing">" Tamaño Disminuyendo "</string>
+    <string name="sizeIncreasing">" Aumento de tamaño "</string>
+    <string name="sort">clasificar</string>
+    <string name="sort_apps">Ordenar aplicaciones</string>
+    <string name="sortorder">Seleccione el orden de clasificación</string>
+    <string name="start_label">INICIO:</string>
+    <string name="start_marker">Marcador de inicio</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="stop">Parar</string>
+    <string name="storagepermission">Necesita permiso de almacenamiento</string>
+    <string name="storagepermissionmessage">Esta aplicación necesita permiso de almacenamiento</string>
+    <string name="subject">Retroalimentación sobre la grabadora de voz</string>
+    <string name="summary_faqs">Preguntas frecuentes</string>
+    <string name="summary_support">Cuéntanos más sobre los problemas que estás enfrentando con la aplicación.</string>
+    <string name="time">CREADO</string>
+    <string name="time_seconds">segundos</string>
+    <string name="title">Política de privacidad</string>
+    <string name="title_Settings_activity">Configuraciones</string>
+    <string name="title_activity_android_building_music_player">Jugador</string>
+    <string name="title_activity_app_compat_preference">App Compat Preferencia Actividad</string>
+    <string name="title_activity_in_app_billing">InAppBillingActivity</string>
+    <string name="title_activity_main_bottom">MainBottomActivity</string>
+    <string name="title_activity_main_tabbed">MainTabbedActivity</string>
+    <string name="title_activity_my_billing">MyBilling</string>
+    <string name="title_activity_rate">Actividad de tasa</string>
+    <string name="title_activity_recording_self">Grabación de la actividad de uno mismof</string>
+    <string name="title_activity_recordings">Grabaciones</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_faqs">Preguntas frecuentes</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_send_feedback">Enviar comentarios</string>
+    <string name="too_small_error">No se puede guardar un archivo tan pequeño, intente hacerlo más largo.</string>
+    <string name="translations">Ayúdenos a traducir</string>
+    <string name="trash_size">Papelera Talla</string>
+    <string name="trashcontent">Los archivos se moverán a la papelera cuando se eliminen</string>
+    <string name="trashcontentoff">Las grabaciones se eliminarán permanentemente y no se podrán restaurar.</string>
+    <string name="txtView">Puntuar 5 Estrellas</string>
+    <string name="type_alarm">Alarma</string>
+    <string name="type_music">Música</string>
+    <string name="type_notification">Notificación</string>
+    <string name="type_recording">Grabación</string>
+    <string name="type_ringtone">Tono de llamada</string>
+    <string name="unable">Incapaz de obtener el permiso</string>
+    <string name="up_label">Atrás</string>
+    <string name="viewDetail">" Ver Detalles "</string>
+    <string name="volumeup">Por favor, suba el volumen</string>
+    <string name="wav">.wav</string>
+    <string name="what_to_do_with_ringtone">Salvado! ¿Convierte este tono en su tono de llamada predeterminado o lo asigna a un contacto?</string>
+    <string name="write_error">Error al escribir el archivo</string>
+    <string name="zoom_in">Aumentar el zoom</string>
+    <string name="zoom_out">Alejar el zoom</string>
+</resources>

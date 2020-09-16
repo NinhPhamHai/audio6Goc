@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/colorPrimary1" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <android.support.v7.widget.Toolbar android:theme="@style/MyToolBarStyle" android:id="@id/toolbar" android:background="?colorPrimary" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="?actionBarSize" android:layout_alignParentTop="true" />
+        <LinearLayout android:id="@id/player_header_bg" android:background="@layout/bg_player_header" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_below="@id/toolbar" android:paddingStart="5.0dip" android:paddingEnd="5.0dip">
+            <TextView android:textSize="16.0dip" android:textStyle="bold" android:textColor="#ff04b3d2" android:id="@id/recordTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="1.0dip" android:text="The Good, The Bad And The Ugly" android:layout_weight="1.0" android:paddingStart="10.0dip" />
+            <ImageButton android:id="@id/btnRename" android:background="@null" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/record_notifification" />
+            <ImageButton android:id="@id/btnDelete" android:background="@null" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/ic_delete_white" />
+            <ImageButton android:id="@id/btnPlaylist" android:background="@null" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/record_notifification" />
+        </LinearLayout>
+        <ScrollView android:id="@id/hscrollContainerWrpper" android:background="@drawable/custom_border5" android:paddingTop="5.0dip" android:paddingBottom="10.0dip" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="250.0dip">
+            <LinearLayout android:orientation="vertical" android:paddingBottom="10.0dip" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/toolbar" android:paddingStart="10.0dip" android:paddingEnd="10.0dip">
+                <LinearLayout android:orientation="vertical" android:id="@id/fileDetailsLinearLayout" android:paddingTop="6.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="5.0dip" android:paddingEnd="5.0dip">
+                    <LinearLayout android:orientation="horizontal" android:background="@drawable/custom_border4" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="6.0">
+                        <TextView android:textColor="@color/windowBackgroundColor" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="File Name" android:layout_weight="2.0" android:paddingStart="10.0dip" />
+                        <View android:background="@color/windowBackgroundColor" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="1.0dip" android:layout_marginBottom="1.0dip" />
+                        <TextView android:textColor="@color/wavecolor1" android:id="@id/fileName" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="File Name" android:layout_weight="4.0" android:paddingStart="10.0dip" />
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:background="@drawable/custom_border4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="6.0">
+                        <TextView android:textColor="@color/windowBackgroundColor" android:padding="5.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/filelocation" android:layout_weight="2.0" android:paddingStart="10.0dip" />
+                        <View android:background="@color/windowBackgroundColor" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="1.0dip" android:layout_marginBottom="1.0dip" />
+                        <TextView android:textColor="@color/wavecolor1" android:id="@id/fileLocation" android:padding="5.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="File Location is the rooth location                     of the best place in the                     world" android:layout_weight="4.0" android:paddingStart="10.0dip" />
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:background="@drawable/custom_border4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="6.0">
+                        <TextView android:textColor="@color/windowBackgroundColor" android:padding="5.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/size" android:layout_weight="2.0" android:paddingStart="10.0dip" />
+                        <View android:background="@color/windowBackgroundColor" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="1.0dip" android:layout_marginBottom="1.0dip" />
+                        <TextView android:textColor="@color/wavecolor1" android:id="@id/fileSize" android:padding="5.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="File Size" android:layout_weight="4.0" android:paddingStart="10.0dip" />
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:id="@id/linearlayoutDuration" android:background="@drawable/custom_border4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="6.0">
+                        <TextView android:textColor="@color/windowBackgroundColor" android:padding="5.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/fileduration" android:layout_weight="2.0" android:paddingStart="10.0dip" />
+                        <View android:background="@color/windowBackgroundColor" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="1.0dip" android:layout_marginBottom="1.0dip" />
+                        <TextView android:textColor="@color/wavecolor1" android:id="@id/fileDuration" android:padding="5.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="Duration" android:layout_weight="4.0" android:paddingStart="10.0dip" />
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:background="@drawable/custom_border4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="6.0">
+                        <TextView android:textColor="@color/windowBackgroundColor" android:padding="5.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/time" android:layout_weight="2.0" android:paddingStart="10.0dip" />
+                        <View android:background="@color/windowBackgroundColor" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="1.0dip" android:layout_marginBottom="1.0dip" />
+                        <TextView android:textColor="@color/wavecolor1" android:id="@id/fileCreationTime" android:padding="5.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="Creation Time" android:layout_weight="4.0" android:paddingStart="10.0dip" />
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:id="@id/hscrollContainer" android:clipChildren="false" android:clipToPadding="false" android:layout_width="320.0dip" android:layout_height="250.0dip" android:layout_marginBottom="15.0dip" />
+            </LinearLayout>
+        </ScrollView>
+        <RelativeLayout android:orientation="vertical" android:id="@id/player_overall_linear" android:background="@drawable/custom_border" android:padding="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="10.0" android:layout_below="@id/hscrollContainerWrpper" android:layout_alignParentBottom="true">
+            <TextView android:textSize="15.0sp" android:textColor="@color/windowBackgroundColor" android:id="@id/recordingNameTextView" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="Recording" android:layout_alignParentTop="true" android:layout_marginStart="6.0dip" />
+            <LinearLayout android:id="@id/visualizerFrame" android:background="@drawable/custom_border" android:padding="2.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="3.0" android:layout_above="@id/timerDisplay" android:layout_below="@id/recordingNameTextView">
+                <com.chibde.visualizer.LineBarVisualizer android:id="@id/visualizer" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerHorizontal="true" />
+            </LinearLayout>
+            <LinearLayout android:id="@id/timerDisplay" android:background="@drawable/custom_border2" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_marginTop="10.0dip" android:layout_marginBottom="5.0dip" android:weightSum="12.0" android:layout_weight="2.0" android:layout_above="@id/player_footer_bg" android:layout_marginStart="20.0dip" android:layout_marginEnd="20.0dip">
+                <ImageView android:id="@id/btnRepeat" android:background="@null" android:layout_width="35.0dip" android:layout_height="35.0dip" android:src="@drawable/repeatoff" android:layout_weight="1.0" android:layout_marginEnd="5.0dip" />
+                <TextView android:textStyle="bold" android:textColor="@color/colorPrimary1" android:gravity="left" android:layout_gravity="center" android:id="@id/recordCurrentDurationLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0" android:layout_weight="1.0" />
+                <SeekBar android:theme="@style/MySeekBarTheme" android:layout_gravity="center" android:id="@id/recordProgressBar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="8.0" android:paddingStart="2.0dip" android:paddingEnd="2.0dip" android:layout_marginStart="2.0dip" android:layout_marginEnd="2.0dip" />
+                <TextView android:textStyle="bold" android:textColor="@color/colorPrimary1" android:gravity="right" android:layout_gravity="center" android:id="@id/recordTotalDurationLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="1" android:layout_weight="1.0" />
+                <ImageView android:id="@id/btnShuffle" android:background="@null" android:layout_width="35.0dip" android:layout_height="35.0dip" android:src="@drawable/playnextauto" android:layout_weight="1.0" android:layout_marginStart="5.0dip" />
+            </LinearLayout>
+            <RelativeLayout android:orientation="horizontal" android:id="@id/player_footer_bg" android:background="@drawable/custom_border2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="3.0" android:layout_weight="5.0" android:layout_alignParentBottom="true">
+                <ImageView android:layout_gravity="center_vertical" android:id="@id/btnPrevious" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/previousplayblack" android:layout_weight="1.0" android:layout_toLeftOf="@id/btnPlay" android:layout_marginEnd="30.0dip" />
+                <ImageButton android:layout_gravity="center_vertical" android:id="@id/btnBackward" android:background="@null" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/record_notifification" />
+                <ImageView android:id="@id/btnPlay" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/playblack" android:layout_centerHorizontal="true" />
+                <ImageButton android:layout_gravity="center_vertical" android:id="@id/btnForward" android:background="@null" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/record_notifification" />
+                <ImageView android:layout_gravity="center_vertical" android:id="@id/btnNext" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/nextplayblack" android:layout_weight="1.0" android:layout_toRightOf="@id/btnPlay" android:layout_marginStart="30.0dip" />
+            </RelativeLayout>
+        </RelativeLayout>
+        <LinearLayout android:gravity="center" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageButton android:id="@id/btnRepeat1" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/record_notifification" android:layout_marginEnd="5.0dip" />
+            <ImageButton android:id="@id/btnShuffle1" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/record_notifification" android:layout_marginStart="5.0dip" />
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

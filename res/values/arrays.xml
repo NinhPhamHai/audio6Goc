@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="moreOptions">
+        <item>@string/listen</item>
+        <item>@string/share</item>
+        <item>@string/rename</item>
+        <item>@string/delete</item>
+        <item>@string/openWith</item>
+        <item>@string/viewDetail</item>
+        <item>@string/edit</item>
+    </string-array>
+    <string-array name="moreOptionsDeletedItems">
+        <item>@string/restore</item>
+        <item>@string/delete_permanentaly</item>
+        <item>@string/viewDetail</item>
+    </string-array>
+    <string-array name="record_file_name_options">
+        <item>YYYY-MM-DD_HH-MM-SS</item>
+        <item>@string/myrecording</item>
+    </string-array>
+    <string-array name="record_file_name_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="record_file_quality_options">
+        <item>11 kHz</item>
+        <item>16 kHz</item>
+        <item>22 kHz</item>
+        <item>44 kHz</item>
+        <item>48 kHz</item>
+    </string-array>
+    <string-array name="record_file_quality_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="record_file_type_options">
+        <item>@string/m4a</item>
+        <item>@string/gp</item>
+        <item>@string/mp3</item>
+        <item>@string/wav</item>
+    </string-array>
+    <string-array name="record_file_type_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="sortOptions">
+        <item>@string/nameAZ</item>
+        <item>@string/nameZA</item>
+        <item>@string/sizeIncreasing</item>
+        <item>@string/sizeDecreasing</item>
+        <item>@string/durationIncreasing</item>
+        <item>@string/durationDecreasing</item>
+        <item>@string/installDateNewestToOldest</item>
+        <item>@string/installDateOldestToNewest</item>
+    </string-array>
+    <string-array name="sort_recordings_by_entries">
+        <item>@string/nameAZ</item>
+        <item>@string/nameZA</item>
+        <item>@string/sizeIncreasing</item>
+        <item>@string/sizeDecreasing</item>
+        <item>@string/durationIncreasing</item>
+        <item>@string/durationDecreasing</item>
+        <item>@string/installDateNewestToOldest</item>
+        <item>@string/installDateOldestToNewest</item>
+    </string-array>
+    <string-array name="sort_recordings_by_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="trash_options">
+        <item>10 Files</item>
+        <item>20 Files</item>
+        <item>30 Files</item>
+        <item>40 Files</item>
+    </string-array>
+    <string-array name="trash_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>

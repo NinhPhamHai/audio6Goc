@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">홈 탐색</string>
+    <string name="abc_action_bar_up_description">위로 탐색</string>
+    <string name="abc_action_menu_overflow_description">옵션 더보기</string>
+    <string name="abc_action_mode_done">완료</string>
+    <string name="abc_activity_chooser_view_see_all">전체 보기</string>
+    <string name="abc_activitychooserview_choose_application">앱 선택</string>
+    <string name="abc_capital_off">사용 안함</string>
+    <string name="abc_capital_on">사용</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">삭제</string>
+    <string name="abc_menu_enter_shortcut_label">입력</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">스페이스바</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">검색...</string>
+    <string name="abc_searchview_description_clear">검색어 삭제</string>
+    <string name="abc_searchview_description_query">검색어</string>
+    <string name="abc_searchview_description_search">검색</string>
+    <string name="abc_searchview_description_submit">검색어 보내기</string>
+    <string name="abc_searchview_description_voice">음성 검색</string>
+    <string name="abc_shareactionprovider_share_with">공유 대상</string>
+    <string name="abc_shareactionprovider_share_with_application">%s와(과) 공유</string>
+    <string name="abc_toolbar_collapse_description">접기</string>
+    <string name="about">앱에 관하여</string>
+    <string name="aboutActivityTitle">어바웃</string>
+    <string name="about_app_summary">App Share를 사용하면 친구에게 앱을 쉽게 공유하고, 전화기에서 앱을 추출하고, 전화기에서 앱을 제거할 수 있습니다.</string>
+    <string name="about_app_title">어바웃</string>
+    <string name="about_player_service">오디오 재생 서비스</string>
+    <string name="about_privacy_summary">저희는 사용자의 개인 정보를 가장 중요하게 생각하며 안드로이드 앱을 사용하는 동안 사용자의 개인 정보를 보호하기 위해 모든 예방 조치를 취합니다.</string>
+    <string name="about_recorder_service">오디오 녹음 서비스</string>
+    <string name="about_translations">음성 녹음기를 당신의 모국어로 번역하여 사용자들에게 도움이 되도록 도와주세요</string>
+    <string name="action_ad">광고</string>
+    <string name="action_deleted_items">휴지통</string>
+    <string name="action_list_recordings">목록</string>
+    <string name="action_search">녹음 검색..</string>
+    <string name="action_settings">설정</string>
+    <string name="adcame">성공적으로 광고가 나왔습니다</string>
+    <string name="adnotcame">광고가 나오지 않았습니다</string>
+    <string name="alarm">알람</string>
+    <string name="alert_no_button">아니오, 괜찮습니다.</string>
+    <string name="alert_ok_button">확인</string>
+    <string name="alert_title_failure">에러</string>
+    <string name="alert_title_success">완료</string>
+    <string name="alert_yes_button">예, 그래주세요!</string>
+    <string name="androidmarket" />
+    <string name="app_name">음성 녹음기</string>
+    <string name="appversion">앱 버전:</string>
+    <string name="artist_name">음성녹음기</string>
+    <string name="bad_extension_error">죄송합니다, 음성녹음기는 아직 해당 타입의 파일을 수정할 수 없습니다</string>
+    <string name="brand">디바이스 브랜드:</string>
+    <string name="btnDislike">싫어함</string>
+    <string name="btnNo">괜찮아요. 고마워요</string>
+    <string name="btnRateMe">"율
+5 별"</string>
+    <string name="cancel">취소</string>
+    <string name="cancel_label">취소</string>
+    <string name="choose_contact_ringtone_button">연락처에 지정</string>
+    <string name="choose_email_client">이메일 클라이언트 선택하기</string>
+    <string name="common_google_play_services_unknown_issue">%1$s에서 Google Play 서비스를 사용하는 데 문제가 있습니다. 다시 시도하세요.</string>
+    <string name="confirm_label">확인</string>
+    <string name="connectplaystore">플레이 스토어에 연결할 수 없음</string>
+    <string name="contenttitle">음성 녹음기</string>
+    <string name="context_menu_contact">연락처에 지정</string>
+    <string name="context_menu_default_notification">기본 알림으로 설정</string>
+    <string name="context_menu_default_ringtone">기본 벨소리로 설정</string>
+    <string name="context_menu_delete">삭제</string>
+    <string name="context_menu_edit">수정</string>
+    <string name="couldNotOpenAndroidMarket">안드로이드 마켓을 열 수 없습니다.</string>
+    <string name="create_folder_error">폴더를 생성할 수 없습니다.</string>
+    <string name="create_folder_error_already_exists">폴더가 이미 있습니다.</string>
+    <string name="create_folder_error_no_write_access">이 폴더를 사용할 수 없습니다</string>
+    <string name="create_folder_label">폴더 생성</string>
+    <string name="create_folder_msg">이름이 새 폴더를 만드시겠습니까?</string>
+    <string name="create_folder_success">새 폴더가 생성됨</string>
+    <string name="creationtime">생성 시간:</string>
+    <string name="default_notification_success_message">기본 알림음 변경됨</string>
+    <string name="default_ringtone_success_message">기본 벨소리 변경됨</string>
+    <string name="delete">삭제</string>
+    <string name="delete_permanentaly">영구적으로 삭제</string>
+    <string name="deleteactivitytitle">삭제 된 녹음</string>
+    <string name="deleted">파일 삭제 완료</string>
+    <string name="deletefile">파일 삭제</string>
+    <string name="deletefilepermanently">영구적으로 파일 삭제</string>
+    <string name="do_nothing_with_ringtone_button">닫기</string>
+    <string name="duration">길이:</string>
+    <string name="durationDecreasing">길이 내림차순</string>
+    <string name="durationIncreasing">길이 오름차순</string>
+    <string name="edit">수정</string>
+    <string name="editFile">성공적으로 저장된 편집 된 파일</string>
+    <string name="edit_intent">수정</string>
+    <string name="end_label">끝:</string>
+    <string name="end_marker">종료지점</string>
+    <string name="exo_controls_fastforward_description">빨리 감기</string>
+    <string name="exo_controls_fullscreen_description">전체화면 모드</string>
+    <string name="exo_controls_next_description">다음 트랙</string>
+    <string name="exo_controls_pause_description">일시중지</string>
+    <string name="exo_controls_play_description">재생</string>
+    <string name="exo_controls_previous_description">이전 트랙</string>
+    <string name="exo_controls_repeat_all_description">모두 반복</string>
+    <string name="exo_controls_repeat_off_description">반복 안함</string>
+    <string name="exo_controls_repeat_one_description">현재 미디어 반복</string>
+    <string name="exo_controls_rewind_description">되감기</string>
+    <string name="exo_controls_shuffle_description">셔플</string>
+    <string name="exo_controls_stop_description">중지</string>
+    <string name="exo_download_completed">다운로드 완료</string>
+    <string name="exo_download_description">다운로드</string>
+    <string name="exo_download_downloading">다운로드 중</string>
+    <string name="exo_download_failed">다운로드 실패</string>
+    <string name="exo_download_notification_channel_name">다운로드</string>
+    <string name="exo_download_removing">다운로드 항목 삭제 중</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2fMbps</string>
+    <string name="exo_track_mono">모노</string>
+    <string name="exo_track_resolution">%1$d×%2$d</string>
+    <string name="exo_track_selection_auto">자동</string>
+    <string name="exo_track_selection_none">없음</string>
+    <string name="exo_track_selection_title_audio">오디오</string>
+    <string name="exo_track_selection_title_text">문자 메시지</string>
+    <string name="exo_track_selection_title_video">동영상</string>
+    <string name="exo_track_stereo">스테레오</string>
+    <string name="exo_track_surround">서라운드 사운드</string>
+    <string name="exo_track_surround_5_point_1">5.1 서라운드 사운드</string>
+    <string name="exo_track_surround_7_point_1">7.1 서라운드 사운드</string>
+    <string name="exo_track_unknown">알 수 없음</string>
+    <string name="extension_last">mp3</string>
+    <string name="extension_last1">MP3</string>
+    <string name="faqs_details">" "<br></br> <b>" 
+ 자주 묻는 질문 "</b>         <br></br> <b>" 
+ 
+ • 실수로 녹음을 삭제했습니다. 동일한 내용을 검색 할 수 있습니까? "</b>" 
+ 휴지통 설정이 "<b> オン </b>으로 설정되어 있는지 확인하십시오. 실수로 녹음을 삭제 한 경우에도 복원 할 수 있습니다.        <br></br> <b>" 
+ 
+ • 녹화물을 볼 수 없습니다. 내 녹음 내용을 어떻게 볼 수 있습니까? "</b>" 
+1. 앱을 엽니 다. 
+2. 오른쪽 상단에서 설정, 두 번째 버튼을 클릭하십시오. 
+3. 기록 폴더라는 이름의 첫 번째 설정을 확인하십시오. 기록이 저장되는 경로가 표시됩니다. 
+4. 파일 관리자 안드로이드 응용 프로그램을 사용하여 내부 저장소로 이동하여 해당 경로를 검색하십시오. 
+5. 녹음이있을 것입니다. "</string>
+    <string name="feedback_dialog_body">"앱을 개선하기 위해 도와주세요!
+
+당신의 댓글, 제안, 수정 요청을 환영합니다."</string>
+    <string name="feedbackmessage">"
+
+-----------------------------
+이 정보를 지우지 마세요
+ 디바이스 OS: 안드로이드 
+ 디바이스 OS 버전:"</string>
+    <string name="ffwd">빨리 감기</string>
+    <string name="fileExists">이미 존재하는 파일 이름입니다</string>
+    <string name="fileExistsDefault">파일 이름이 이미 존재합니다, 기본 이름으로 파일이 저장됩니다</string>
+    <string name="file_save_button_cancel">취소</string>
+    <string name="file_save_button_save">저장</string>
+    <string name="file_save_title">다른 이름으로 저장:</string>
+    <string name="fileduration">길이</string>
+    <string name="filelocation">파일 위치</string>
+    <string name="filename">파일 이름</string>
+    <string name="filesize">파일 크기:</string>
+    <string name="gb">Gb</string>
+    <string name="gp">.3gp</string>
+    <string name="grant">허가</string>
+    <string name="hours">시간</string>
+    <string name="information">파일에 관한 정보</string>
+    <string name="inprogress">녹음 중</string>
+    <string name="insert">새로운 파일 이름을 입력하세요</string>
+    <string name="installDateNewestToOldest">날짜 최신순</string>
+    <string name="installDateOldestToNewest">날짜 오래된순</string>
+    <string name="kb">Kb</string>
+    <string name="key_send_feedback">key_send_feedback</string>
+    <string name="licence_app">"
+&lt;b> Open Source Licences &lt;/b>
+&lt;br/>
+&lt;br/>• Android-DirectoryChooser - Copyright 2013-2016 Pascal Hartig -
+    &lt;a href=\"http://www.apache.org/licenses/LICENSE-2.0 \">Licence&lt;/a> &lt;br/>• Android-Audio-Visualizer - Copyright 2017 Gautam Chibde - &lt;a href=\"http://www.apache.org/licenses/LICENSE-2.0 \">Licence&lt;/a>
+&lt;br/>• Android-Ripple-Background - Copyright (c) 2014 Yao Yu
+    &lt;a href=\"https://github.com/skyfishjy/android-ripple-background/blob/master/LICENSE \">Licence&lt;/a> &lt;br/>• Gift Icon (iconfinder.com) - 298782 &lt;a href=\"https://opensource.org/licenses/MIT \">Licence&lt;/a>
+
+        &lt;br/>• Ringdroid - Copyright (C) 2008 - 2011 Google Inc.
+    &lt;a href=\"http://www.apache.org/licenses/LICENSE-2.0 \">Licence&lt;/a> &lt;a href=\"https://github.com/google/ringdroid/ \">Go to Site&lt;/a>
+
+        &lt;br/>• Scissors Icon (iconfinder.com) - 2561380
+    &lt;a href=\"https://opensource.org/licenses/MIT \">Licence&lt;/a> "</string>
+    <string name="licencesummary">오픈 소스 소프트웨어 라이센스 상세 정보</string>
+    <string name="licencetitle">오픈 소스 라이센스</string>
+    <string name="listen">듣기</string>
+    <string name="location">파일 위치:</string>
+    <string name="m4a">.m4a</string>
+    <string name="mail_feedback_email">raytechnoto@gmail.com</string>
+    <string name="mail_feedback_message">"안녕하세요,
+
+
+
+여기에 피드백을 입력하세요:"</string>
+    <string name="mail_feedback_subject">음성 녹음기 피드백</string>
+    <string name="mail_translate_message" />
+    <string name="make_default_ringtone_button">기본으로 설정</string>
+    <string name="manufacture">디바이스 생산자:</string>
+    <string name="mb">Mb</string>
+    <string name="media_path">/QuickVoiceRecorder/Audios</string>
+    <string name="menu_about">어바웃</string>
+    <string name="menu_reset">리셋</string>
+    <string name="menu_save">저장</string>
+    <string name="menu_show_all_audio">모든 오디오 보기</string>
+    <string name="message">이름 확인이 요청되었습니다</string>
+    <string name="message_not">이름 확인이 요청되지 않았습니다</string>
+    <string name="minutes">분</string>
+    <string name="model">디바이스 모델:</string>
+    <string name="moreoptions">더 많은 옵션</string>
+    <string name="mp3">.mp3</string>
+    <string name="music">음악</string>
+    <string name="myrecording">내 녹음 #</string>
+    <string name="nameAZ">이름 오름차순</string>
+    <string name="nameZA">이름 내림차순</string>
+    <string name="newfile">새로운 파일 이름을 입력하세요</string>
+    <string name="nextoff">다음 재생 모드가 꺼졌습니다</string>
+    <string name="nexton">다음 재생 모드가 켜졌습니다</string>
+    <string name="no_extension_error">죄송합니다, 음성녹음기는 .mp3 혹은 .wav 이외의 확장자 파일을 수정할 수 없습니다</string>
+    <string name="no_space_error">SD 카드가 가득찼습니다, 파일을 저장하기 위한 공간이 부족합니다.</string>
+    <string name="no_unique_filename">파일 이름을 찾을 수 없습니다</string>
+    <string name="notification">알림</string>
+    <string name="ok">확인</string>
+    <string name="openWith">다음으로 열기</string>
+    <string name="pause">녹음이 중단되었습니다</string>
+    <string name="permission">이 앱을 사용하기 위해서는 허가가 필요합니다. 앱이 종료됩니다.</string>
+    <string name="play">재생</string>
+    <string name="play_error">미디어 파일을 재생할 수 없습니다</string>
+    <string name="pref_header_about">서포트</string>
+    <string name="press">녹음하려면 버튼을 누르세요</string>
+    <string name="pressstop">녹음을 중지하려면 버튼을 누르십시오.</string>
+    <string name="privacy_policy">개인 정보 보호 정책</string>
+    <string name="privacypolicyurl">https://raytechnoto.github.io/privacy-policy/</string>
+    <string name="progress">녹음이 진행 중입니다</string>
+    <string name="progress_dialog_cancel">취소</string>
+    <string name="progress_dialog_loading">로딩</string>
+    <string name="progress_dialog_recording">녹음중</string>
+    <string name="progress_dialog_saving">저장중</string>
+    <string name="progress_dialog_stop">멈춤</string>
+    <string name="rate1">사용에 만족하셨다면</string>
+    <string name="rate2">, 시간을 내서 평가해주세요. 당신의 성원에 감사드립니다!</string>
+    <string name="rateDialogTitle">앱 평가하기</string>
+    <string name="rate_Summary">"시간을 내서 음성 녹음기를 평가주세요,
+당신의 성원에 감사드립니다!"</string>
+    <string name="rate_dialog_body">"음성 녹음기에 만족하셨다면, 시간을 내서 평가해주세요.
+
+당신의 성원에 감사드립니다!"</string>
+    <string name="rate_dialog_cancel">나중에하는</string>
+    <string name="rate_dialog_message">이 앱을 즐겁게 사용하였다면, 잠깐 시간을 내 평가해주시겠습니까? 1분 이상 걸리지 않습니다. 성원 감사합니다!</string>
+    <string name="rate_dialog_no">아니, 괜찮아요</string>
+    <string name="rate_dialog_ok">지금 평가</string>
+    <string name="rate_dialog_title">앱의 평가</string>
+    <string name="ratenew">우리는 당신에게 최고의 무료 앱을 제공하기 위해 열심히 노력하는 작은 팀입니다! 귀하의 5 성급 리뷰는 모든 돈보다 더 가치가 있습니다. Google Play에서 멋진 리뷰를 남겨주세요.</string>
+    <string name="read_error">파일 읽기 에러</string>
+    <string name="record_error">오디오 녹음 에러</string>
+    <string name="recording">녹음</string>
+    <string name="recording_file_name">녹음 파일 이름</string>
+    <string name="recording_file_type">녹음 파일 타입</string>
+    <string name="recording_folder_path">녹음 폴더</string>
+    <string name="recording_name_confirmation_summary_off">녹음 파일이 기본 이름으로 저장되었습니다</string>
+    <string name="recording_name_confirmation_summary_on">녹음 완료 후 파일 이름을 입력하세요</string>
+    <string name="recording_name_confirmation_title">녹음 파일 이름 확인</string>
+    <string name="recording_quality">샘플 속도</string>
+    <string name="recording_started">녹음 시작됨</string>
+    <string name="recordingoption">녹음 옵션</string>
+    <string name="recordings_save">기다려주십시오 ..... 녹음이 저장되고 있습니다.</string>
+    <string name="recordingsaved">녹음 저장 완료됨</string>
+    <string name="remindme">다음에 다시 알려주세요</string>
+    <string name="rename">이름수정</string>
+    <string name="repeatoff">반복 모드가 꺼졌습니다</string>
+    <string name="repeaton">반복 모드가 켜졌습니다</string>
+    <string name="restore">복원</string>
+    <string name="restored_status">레코드가 성공적으로 복원되었습니다</string>
+    <string name="restorefile">파일 복원</string>
+    <string name="rewind">되감기</string>
+    <string name="ringtone">벨소리</string>
+    <string name="ringtone_name_label">이름:</string>
+    <string name="ringtone_type_label">타입:</string>
+    <string name="s1">이미지 저장</string>
+    <string name="s2">광고에서 사진 갤러리에 이미지를 저장하도록 허용하시겠습니까?</string>
+    <string name="s3">동의</string>
+    <string name="s4">거부</string>
+    <string name="s5">캘린더 일정 만들기</string>
+    <string name="s6">광고에서 캘린더 일정을 만들도록 허용하시겠습니까?</string>
+    <string name="s7">테스트 광고</string>
+    <string name="save_button">저장</string>
+    <string name="save_success_message">저장됨!</string>
+    <string name="saveas">벨소리</string>
+    <string name="saved">녹음이 저장되었습니다</string>
+    <string name="searchQueryHint">녹음 검색..</string>
+    <string name="search_menu_title">검색</string>
+    <string name="seconds">초</string>
+    <string name="section_format">헬로우 월드 프롬 섹션: %1$d</string>
+    <string name="select_sort_order">녹음 정렬 기준</string>
+    <string name="selected_folder_label">폴더 선택:</string>
+    <string name="setAs">벨소리로 설정하기</string>
+    <string name="set_default_notification">저장완료! 기본 알림으로 설정하시겠습니까?</string>
+    <string name="share">공유</string>
+    <string name="sharefile">오디오 파일 공유</string>
+    <string name="show_apps">앱 보여주기</string>
+    <string name="size">파일 크기</string>
+    <string name="sizeDecreasing">크기 내림차순</string>
+    <string name="sizeIncreasing">크기 오름차순</string>
+    <string name="sort">정렬</string>
+    <string name="sort_apps">앱 정렬</string>
+    <string name="sortorder">정렬 기준을 선택하세요</string>
+    <string name="start_label">시작:</string>
+    <string name="start_marker">시작점</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop">멈추기</string>
+    <string name="storagepermission">저장소 허가 필요</string>
+    <string name="storagepermissionmessage">이 앱은 저장소 허가가 필요합니다</string>
+    <string name="subject">음성 녹음기에 대한 피드백</string>
+    <string name="summary_faqs">자주 묻는 질문</string>
+    <string name="summary_support">앱에서 겪고있는 문제에 대해 자세히 알려주세요.</string>
+    <string name="time">생성 날짜</string>
+    <string name="time_seconds">초</string>
+    <string name="title">개인 정보 보호 정책</string>
+    <string name="title_Settings_activity">설정</string>
+    <string name="title_activity_android_building_music_player">플레이어</string>
+    <string name="title_activity_app_compat_preference">AppCompatPreferenceActivity</string>
+    <string name="title_activity_recording_self">RecordingActivitySelf</string>
+    <string name="title_activity_recordings">녹음</string>
+    <string name="title_faqs">자주 묻는 질문</string>
+    <string name="title_send_feedback">피드백 보내기</string>
+    <string name="too_small_error">파일이 작아서 저장할 수 없습니다, 더 길게 만들어보세요.</string>
+    <string name="translations">번역 도움 주기</string>
+    <string name="trash_size">휴지통 크기</string>
+    <string name="trashcontent">삭제하면 파일이 휴지통으로 이동합니다</string>
+    <string name="trashcontentoff">녹음은 영구적으로 삭제되며 복원 할 수 없습니다</string>
+    <string name="txtView">율 5 별</string>
+    <string name="type_alarm">알람</string>
+    <string name="type_music">음악</string>
+    <string name="type_notification">알림</string>
+    <string name="type_recording">녹음</string>
+    <string name="type_ringtone">벨소리</string>
+    <string name="unable">허가를 얻을 수 없습니다</string>
+    <string name="up_label">위로</string>
+    <string name="viewDetail">상세 정보 보기</string>
+    <string name="volumeup">볼륨을 키워 주세요</string>
+    <string name="wav">.wav</string>
+    <string name="what_to_do_with_ringtone">저장완료! 기본 밸소리로 설정하거나 특정 연락처에 지정하시겠습니까?</string>
+    <string name="write_error">파일 쓰기 에러</string>
+    <string name="zoom_in">줌 인</string>
+    <string name="zoom_out">줌 아웃</string>
+</resources>

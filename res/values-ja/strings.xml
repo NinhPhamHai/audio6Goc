@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ホームへ移動</string>
+    <string name="abc_action_bar_up_description">上へ移動</string>
+    <string name="abc_action_menu_overflow_description">その他のオプション</string>
+    <string name="abc_action_mode_done">完了</string>
+    <string name="abc_activity_chooser_view_see_all">すべて表示</string>
+    <string name="abc_activitychooserview_choose_application">アプリの選択</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">検索…</string>
+    <string name="abc_searchview_description_clear">検索キーワードを削除</string>
+    <string name="abc_searchview_description_query">検索キーワード</string>
+    <string name="abc_searchview_description_search">検索</string>
+    <string name="abc_searchview_description_submit">検索キーワードを送信</string>
+    <string name="abc_searchview_description_voice">音声検索</string>
+    <string name="abc_shareactionprovider_share_with">共有</string>
+    <string name="abc_shareactionprovider_share_with_application">%sと共有</string>
+    <string name="abc_toolbar_collapse_description">折りたたむ</string>
+    <string name="about">アプリケーションについて</string>
+    <string name="aboutActivityTitle">について</string>
+    <string name="about_app_summary">アプリケーションの共有が簡単にあなたの携帯電話から携帯電話やアンインストールのアプリにあなたの友人、エキスのアプリへのアプリを共有することができます。</string>
+    <string name="about_app_title">概要</string>
+    <string name="about_player_service">オーディオプレーヤーサービス</string>
+    <string name="about_privacy_summary">「私たちは最重要のユーザーのプライバシーを考慮し、当社のAndroidアプリの使用中にユーザーのプライバシーを保護するために、すべての予防措置をとる。</string>
+    <string name="about_recorder_service">音声録音サービス</string>
+    <string name="about_translations">ボイスレコーダーをあなたの母国語に翻訳してあなたの言語ユーザーに役立ててください。</string>
+    <string name="action_ad">広告</string>
+    <string name="action_deleted_items">ゴミ箱</string>
+    <string name="action_list_recordings">リスト</string>
+    <string name="action_search">検索録音..</string>
+    <string name="action_settings">設定</string>
+    <string name="adcame">広告が正常に来た</string>
+    <string name="adnotcame">広告は来ませんでした。</string>
+    <string name="alarm">アラーム</string>
+    <string name="alert_no_button">いいえ、感謝します。</string>
+    <string name="alert_ok_button">OK</string>
+    <string name="alert_title_failure">エラー</string>
+    <string name="alert_title_success">成功</string>
+    <string name="alert_yes_button">はい、してください！</string>
+    <string name="androidmarket" />
+    <string name="app_name">ボイスレコーダー</string>
+    <string name="appversion">アプリのバージョン：</string>
+    <string name="artist_name">ボイスレコーダー</string>
+    <string name="bad_extension_error">すみません、VoiceRecorderはまだタイプのファイルを編集することができません</string>
+    <string name="brand">  端末ブランド：</string>
+    <string name="btnDislike">嫌い</string>
+    <string name="btnNo">結構です</string>
+    <string name="btnRateMe">"レート
+5 つ星"</string>
+    <string name="cancel">キャンセル</string>
+    <string name="cancel_label">キャンセル</string>
+    <string name="choose_contact_ringtone_button">を連絡するために割り当て</string>
+    <string name="choose_email_client">に電子メールクライアントを選択します。</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。</string>
+    <string name="confirm_label">決定</string>
+    <string name="connectplaystore">ストアを再生するために接続できませんでした。</string>
+    <string name="contenttitle">ボイスレコーダー</string>
+    <string name="context_menu_contact">を連絡するために割り当て</string>
+    <string name="context_menu_default_notification">デフォルト通知として設定</string>
+    <string name="context_menu_default_ringtone">デフォルトの着信音として設定する</string>
+    <string name="context_menu_delete">削除</string>
+    <string name="context_menu_edit">編集</string>
+    <string name="couldNotOpenAndroidMarket">Androidマーケットを開けませんでした。</string>
+    <string name="create_folder_error">フォルダを作成できません</string>
+    <string name="create_folder_error_already_exists">フォルダは既にに存在します</string>
+    <string name="create_folder_error_no_write_access">フォルダ作成の権限がありません</string>
+    <string name="create_folder_label">フォルダ作成</string>
+    <string name="create_folder_msg">新しいフォルダを名前で作成しますか？</string>
+    <string name="create_folder_success">フォルダを作成しました</string>
+    <string name="creationtime">     作成時間：</string>
+    <string name="default_notification_success_message">変更デフォルトの通知音</string>
+    <string name="default_ringtone_success_message">変更デフォルトの着信音</string>
+    <string name="delete">削除</string>
+    <string name="delete_permanentaly">完全に削除</string>
+    <string name="deleteactivitytitle">削除された録音</string>
+    <string name="deleted">レコードの削除に成功しました</string>
+    <string name="deletefile">ファイルの削除</string>
+    <string name="deletefilepermanently">「ファイルを完全に削除」</string>
+    <string name="do_nothing_with_ringtone_button">閉じる</string>
+    <string name="duration">     所要時間：</string>
+    <string name="durationDecreasing">持続時間減少</string>
+    <string name="durationIncreasing">持続時間の増加</string>
+    <string name="edit">編集</string>
+    <string name="editFile">編集したファイルを保存しました</string>
+    <string name="edit_intent">編集</string>
+    <string name="end_label">終わり：</string>
+    <string name="end_marker">エンドマーカー</string>
+    <string name="exo_controls_fastforward_description">早送り</string>
+    <string name="exo_controls_fullscreen_description">全画面モード</string>
+    <string name="exo_controls_next_description">次のトラック</string>
+    <string name="exo_controls_pause_description">一時停止</string>
+    <string name="exo_controls_play_description">再生</string>
+    <string name="exo_controls_previous_description">前のトラック</string>
+    <string name="exo_controls_repeat_all_description">全曲をリピート</string>
+    <string name="exo_controls_repeat_off_description">リピートなし</string>
+    <string name="exo_controls_repeat_one_description">1 曲をリピート</string>
+    <string name="exo_controls_rewind_description">巻き戻し</string>
+    <string name="exo_controls_shuffle_description">シャッフル</string>
+    <string name="exo_controls_stop_description">停止</string>
+    <string name="exo_download_completed">ダウンロードが完了しました</string>
+    <string name="exo_download_description">ダウンロード</string>
+    <string name="exo_download_downloading">ダウンロードしています</string>
+    <string name="exo_download_failed">ダウンロードに失敗しました</string>
+    <string name="exo_download_notification_channel_name">ダウンロード</string>
+    <string name="exo_download_removing">ダウンロードを削除しています</string>
+    <string name="exo_item_list">%1$s、%2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">モノラル</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_selection_auto">自動</string>
+    <string name="exo_track_selection_none">なし</string>
+    <string name="exo_track_selection_title_audio">音声</string>
+    <string name="exo_track_selection_title_text">SMS</string>
+    <string name="exo_track_selection_title_video">動画</string>
+    <string name="exo_track_stereo">ステレオ</string>
+    <string name="exo_track_surround">サラウンド サウンド</string>
+    <string name="exo_track_surround_5_point_1">5.1 サラウンド サウンド</string>
+    <string name="exo_track_surround_7_point_1">7.1 サラウンド サウンド</string>
+    <string name="exo_track_unknown">不明</string>
+    <string name="extension_last">mp3</string>
+    <string name="extension_last1">MP3</string>
+    <string name="faqs_details">" "<br></br> <b>" 
+よくある質問 "</b>          <br></br> <b>" 
+ 
+ •誤って録音を削除してしまいました。同じものを取得できますか "</b>" 
+ゴミ箱設定が"<b> オン </b>になっていることを確認してください。誤って録音を削除した場合は、同じものを復元できます。         <br></br> <b>" 
+ 
+ •録画を表示できません。録音を表示するにはどうすればよいですか "</b>" 
+1。アプリを開きます。 
+2。設定、右上隅から2番目のボタンをクリックします。 
+3。 Recording Folderという名前の最初の設定を確認してください。これは、記録が保存されるパスを示しています。 
+4。任意のファイルマネージャーAndroidアプリケーションを使用して内部ストレージに移動し、そのパスを検索します。 
+5。録音があります。         "<br></br> <b>" 
+ 
+ •重要な録音を保護する最良の方法は何ですか？ "</b>" 
+録画リスト画面で"<b>共有</b>オプションを使用して、重要な録画をGoogleドライブやDropBoxなどのクラウドに共有/アップロードすることをお勧めします。          <br></br> <b>" 
+ 
+ •通話録音はサポートされていますか？ "</b>"     
+いいえ、このアプリケーションでは通話録音はサポートされていません。         "</string>
+    <string name="feedback_dialog_body">"私たちは、このアプリの改善にご協力ください！
+
+\u0009私たちはあなたのコメント、提案や修正を歓迎します。"</string>
+    <string name="feedbackmessage">"
+
+-----------------------------
+この情報を削除しないでください
+デバイスOS：Android
+デバイスOSのバージョン："</string>
+    <string name="ffwd">早送り</string>
+    <string name="fileExists">ファイル名は既に存在します</string>
+    <string name="fileExistsDefault">ファイル名がすでに存在している、ファイルがデフォルト名で保存</string>
+    <string name="file_save_button_cancel">キャンセル</string>
+    <string name="file_save_button_save">保存</string>
+    <string name="file_save_title">名前を付けて保存：</string>
+    <string name="fileduration">デュレイション</string>
+    <string name="filelocation">ファイルの場所</string>
+    <string name="filename">ファイル名</string>
+    <string name="filesize">     ファイルサイズ：</string>
+    <string name="gb">Gb</string>
+    <string name="gp">.3gp</string>
+    <string name="grant">許可</string>
+    <string name="hours">時間</string>
+    <string name="information">ファイルに関する情報</string>
+    <string name="inprogress">録音中です</string>
+    <string name="insert">新しいファイル名を挿入します</string>
+    <string name="installDateNewestToOldest">日付最新 - >古いです</string>
+    <string name="installDateOldestToNewest">最も古い日付 - >最新</string>
+    <string name="kb">Kb</string>
+    <string name="key_send_feedback">key_send_feedback</string>
+    <string name="licence_app">"
+&lt;b> Open Source Licences &lt;/b>
+&lt;br/>
+&lt;br/>• Android-DirectoryChooser - Copyright 2013-2016 Pascal Hartig -
+    &lt;a href=\"http://www.apache.org/licenses/LICENSE-2.0 \">Licence&lt;/a> &lt;br/>• Android-Audio-Visualizer - Copyright 2017 Gautam Chibde - &lt;a href=\"http://www.apache.org/licenses/LICENSE-2.0 \">Licence&lt;/a>
+&lt;br/>• Android-Ripple-Background - Copyright (c) 2014 Yao Yu
+    &lt;a href=\"https://github.com/skyfishjy/android-ripple-background/blob/master/LICENSE \">Licence&lt;/a> &lt;br/>• Gift Icon (iconfinder.com) - 298782 &lt;a href=\"https://opensource.org/licenses/MIT \">Licence&lt;/a>
+
+        &lt;br/>• Ringdroid - Copyright (C) 2008 - 2011 Google Inc.
+    &lt;a href=\"http://www.apache.org/licenses/LICENSE-2.0 \">Licence&lt;/a> &lt;a href=\"https://github.com/google/ringdroid/ \">Go to Site&lt;/a>
+
+        &lt;br/>• Scissors Icon (iconfinder.com) - 2561380
+    &lt;a href=\"https://opensource.org/licenses/MIT \">Licence&lt;/a> "</string>
+    <string name="licencesummary">オープンソースソフトウェアのライセンスの詳細</string>
+    <string name="licencetitle">オープンソースライセンス</string>
+    <string name="listen">聞く</string>
+    <string name="location">ファイルの場所：     </string>
+    <string name="m4a">.m4a</string>
+    <string name="mail_feedback_email">raytechnoto@gmail.com</string>
+    <string name="mail_feedback_message">"こんにちは、
+
+
+
+\u0009ここにあなたのフィードバックを書く： "</string>
+    <string name="mail_feedback_subject">ボイスレコーダーに関するフィードバック</string>
+    <string name="mail_translate_message" />
+    <string name="make_default_ringtone_button">デフォルトにしてください</string>
+    <string name="manufacture">  デバイスメーカー：</string>
+    <string name="mb">Mb</string>
+    <string name="media_path">/クイックボイスレコーダー／オーディオ</string>
+    <string name="menu_about">について</string>
+    <string name="menu_reset">リセット</string>
+    <string name="menu_save">保存</string>
+    <string name="menu_show_all_audio">すべてのオーディオを表示します</string>
+    <string name="message">名前の確認を求められます</string>
+    <string name="message_not">名前の確認が求められていない</string>
+    <string name="minutes">分</string>
+    <string name="model">  デバイスモデル：</string>
+    <string name="moreoptions">詳細オプション</string>
+    <string name="mp3">.mp3</string>
+    <string name="music">音楽</string>
+    <string name="myrecording">私のレコーディング #</string>
+    <string name="nameAZ">名前 A -> Z</string>
+    <string name="nameZA">名前 Z -> A</string>
+    <string name="newfile">新しいファイル名を入力してください</string>
+    <string name="nextoff">次のプレイモードがオフになっている</string>
+    <string name="nexton">次のプレイモードがオンになっている</string>
+    <string name="no_extension_error">申し訳ありませんが、VoiceRecorderは、.mp3や.wavのような拡張子が付いていない場合、ファイルを編集できません。</string>
+    <string name="no_space_error">SDカードがいっぱいです。このファイルを保存するのに十分なスペースがありません。</string>
+    <string name="no_unique_filename">一意のファイル名を見つけることができません。</string>
+    <string name="notification">通知</string>
+    <string name="ok">OK</string>
+    <string name="openWith">で開く</string>
+    <string name="pause">記録が一時停止しています</string>
+    <string name="permission">あなたは、このアプリを使用する権限を与える必要があります。 アプリが出ています。</string>
+    <string name="play">再生</string>
+    <string name="play_error">このメディアファイルを再生することができません。</string>
+    <string name="pref_header_about">サポート</string>
+    <string name="press">レコードへの押しボタン</string>
+    <string name="pressstop">録音を停止するにはボタンを押してください</string>
+    <string name="privacy_policy">プライバシーポリシー</string>
+    <string name="privacypolicyurl">https://raytechnoto.github.io/privacy-policy/</string>
+    <string name="progress">記録は進行中です</string>
+    <string name="progress_dialog_cancel">キャンセル</string>
+    <string name="progress_dialog_loading">読み込み中</string>
+    <string name="progress_dialog_recording">録音</string>
+    <string name="progress_dialog_saving">保存</string>
+    <string name="progress_dialog_stop">停止</string>
+    <string name="rate1">あなたが好きなら</string>
+    <string name="rate2">、それを評価するために時間を割いてください。      あなたのサポートをありがとう！     </string>
+    <string name="rateDialogTitle">レートアプリケーション</string>
+    <string name="rate_Summary">"ボイスレコーダーを評価するために時間を割いてください、
+\u0009ご支援いただきありがとうございます。"</string>
+    <string name="rate_dialog_body">"ボイスレコーダーを使用したい場合は、しばらくお待ちください。
+
+\u0009あなたのサポートをありがとう!"</string>
+    <string name="rate_dialog_cancel">後でする</string>
+    <string name="rate_dialog_message">あなたがこのアプリを使うのを楽しんでいるなら、あなたはそれを評価するために少し時間をかけてもよろしいですか？ 1分以上かかることはありません。ご協力ありがとうございました！</string>
+    <string name="rate_dialog_no">いえ、結構です</string>
+    <string name="rate_dialog_ok">今すぐ評価する</string>
+    <string name="rate_dialog_title">アプリの評価</string>
+    <string name="ratenew">私たちはあなたに最高の無料アプリを与えるために非常に懸命に働く小さなチームです!あなたの5つ星のレビューは、すべてのお金よりも価値があります。私たちを奨励するためにGoogle Playで素敵なレビューを書いてください!</string>
+    <string name="read_error">ファイルの読み取りエラー</string>
+    <string name="record_error">エラー記録オーディオ</string>
+    <string name="recording">録音</string>
+    <string name="recording_file_name">録画ファイル名</string>
+    <string name="recording_file_type">録画ファイルタイプ</string>
+    <string name="recording_folder_path">録画フォルダ</string>
+    <string name="recording_name_confirmation_summary_off">録画ファイルはデフォルトの名前で保存されます</string>
+    <string name="recording_name_confirmation_summary_on">録音後のファイル名を入力してください</string>
+    <string name="recording_name_confirmation_title">録画ファイル名の確認</string>
+    <string name="recording_quality">サンプルレート</string>
+    <string name="recording_started">録画開始</string>
+    <string name="recordingoption">録音オプション</string>
+    <string name="recordings_save">お待ちください。記録を保存しています。</string>
+    <string name="recordingsaved">記録が正常に保存されました</string>
+    <string name="remindme">後で通知する</string>
+    <string name="rename">名前の変更</string>
+    <string name="repeatoff">リピートモードがオフになっている</string>
+    <string name="repeaton">リピートモードがオンになっている</string>
+    <string name="restore">戻す</string>
+    <string name="restored_status">「レコードが正常に復元されました」</string>
+    <string name="restorefile">「ファイルの復元」</string>
+    <string name="rewind">巻き戻し</string>
+    <string name="ringtone">着信音</string>
+    <string name="ringtone_name_label">名前：</string>
+    <string name="ringtone_type_label">タイプ：</string>
+    <string name="s1">画像の保存</string>
+    <string name="s2">広告が画像ギャラリーに画像を保存することを許可しますか？</string>
+    <string name="s3">許可する</string>
+    <string name="s4">許可しない</string>
+    <string name="s5">カレンダーの予定の作成</string>
+    <string name="s6">広告がカレンダーの予定を作成することを許可しますか？</string>
+    <string name="s7">テスト広告</string>
+    <string name="save_button">保存</string>
+    <string name="save_success_message">保存された！</string>
+    <string name="saveas">着信音</string>
+    <string name="saved">記録が保存されました</string>
+    <string name="searchQueryHint">検索録音..</string>
+    <string name="search_menu_title">検索</string>
+    <string name="seconds">秒</string>
+    <string name="section_format">セクションからこんにちは世界：%1$d</string>
+    <string name="select_sort_order">録音ソート順序</string>
+    <string name="selected_folder_label">選択フォルダ</string>
+    <string name="setAs">着信音として設定する</string>
+    <string name="set_default_notification">保存されました！このデフォルトの通知を行います？</string>
+    <string name="share">共有</string>
+    <string name="sharefile">共有オーディオファイル</string>
+    <string name="show_apps">表示アプリ</string>
+    <string name="size">ファイルサイズ</string>
+    <string name="sizeDecreasing">サイズ縮小</string>
+    <string name="sizeIncreasing">サイズを大きくする</string>
+    <string name="sort">ソート</string>
+    <string name="sort_apps">ソートアプリ</string>
+    <string name="sortorder">選択ソート順</string>
+    <string name="start_label">開始：</string>
+    <string name="start_marker">マーカーを開始します</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop">停止</string>
+    <string name="storagepermission">保存許可が必要</string>
+    <string name="storagepermissionmessage">このアプリには保存権限が必要です</string>
+    <string name="subject">ボイスレコーダーに関するフィードバック</string>
+    <string name="summary_faqs">よくある質問</string>
+    <string name="summary_support">あなたがアプリで直面している問題についてもっと教えてください</string>
+    <string name="time">作成済み</string>
+    <string name="time_seconds">秒</string>
+    <string name="title">プライバシーポリシー</string>
+    <string name="title_Settings_activity">設定</string>
+    <string name="title_activity_android_building_music_player">プレーヤー</string>
+    <string name="title_activity_app_compat_preference">AppCompatPreferenceActivity</string>
+    <string name="title_activity_recording_self">RecordingActivitySelf</string>
+    <string name="title_activity_recordings">録音</string>
+    <string name="title_faqs">よくある質問</string>
+    <string name="title_send_feedback">フィードバックを送信</string>
+    <string name="too_small_error">その小さなファイルを保存することはできません、もはやそれを作ってみます。</string>
+    <string name="translations">翻訳を手伝ってください</string>
+    <string name="trash_size">ゴミ箱 サイズ</string>
+    <string name="trashcontent">ファイルは削除時にゴミ箱に移動されます</string>
+    <string name="trashcontentoff">録音は完全に削除され、復元できません</string>
+    <string name="txtView">レート 5 つ星</string>
+    <string name="type_alarm">アラーム</string>
+    <string name="type_music">音楽</string>
+    <string name="type_notification">通知</string>
+    <string name="type_recording">録画</string>
+    <string name="type_ringtone">着メロ</string>
+    <string name="unable">権限を取得できません</string>
+    <string name="up_label">上へ</string>
+    <string name="viewDetail">詳細の表示</string>
+    <string name="volumeup">音量を上げてください。</string>
+    <string name="wav">.wav</string>
+    <string name="what_to_do_with_ringtone">保存されました！これはあなたのデフォルトの着信音を作成するか、連絡先に割り当てる？</string>
+    <string name="write_error">ファイル書き込みエラー</string>
+    <string name="zoom_in">ズームイン</string>
+    <string name="zoom_out">縮小</string>
+</resources>

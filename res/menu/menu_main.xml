@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/baseline_info_white_36" android:id="@id/action_consent" android:visible="false" android:orderInCategory="100" android:title="@string/action_consent" app:showAsAction="always" />
+    <item android:icon="@drawable/ic_consent_white_18dp" android:id="@id/action_buy" android:visible="false" android:orderInCategory="100" android:title="@string/action_settings" app:showAsAction="always" />
+    <item android:icon="@drawable/ic_settings_white_36dp" android:id="@id/action_settings" android:orderInCategory="100" android:title="@string/action_settings" app:showAsAction="always" />
+    <item android:icon="@drawable/ic_view_list_white_48dp" android:id="@id/action_recordings" android:orderInCategory="100" android:title="@string/action_list_recordings" app:showAsAction="always" />
+</menu>

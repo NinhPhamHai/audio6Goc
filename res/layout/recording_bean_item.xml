@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="?selectableItemBackground" android:paddingTop="10.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="10.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:card_view="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:id="@id/linearlayout_recycler_view" android:background="?selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="2.0" android:layout_weight="10.0" android:paddingStart="10.0dip" android:paddingEnd="10.0dip">
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:textSize="17.0dip" android:textStyle="bold" android:id="@id/recordingName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="recName" />
+        </LinearLayout>
+        <LinearLayout android:gravity="end" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:weightSum="3.0">
+            <TextView android:id="@id/recordingDate" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="recordingDate" android:layout_weight="1.0" android:layout_below="@id/recordingName" />
+            <TextView android:gravity="end" android:id="@id/recordingDuration" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="duration" android:layout_weight="1.0" android:layout_toRightOf="@id/recordingName" android:layout_alignParentRight="true" android:layout_marginEnd="10.0dip" android:layout_toEndOf="@id/recordingName" />
+            <TextView android:gravity="end" android:id="@id/recordingSize" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="size" android:layout_weight="1.0" android:layout_toRightOf="@id/recordingDate" android:layout_below="@id/recordingDuration" android:layout_alignParentRight="true" android:layout_marginEnd="10.0dip" android:layout_toEndOf="@id/recordingDate" />
+        </LinearLayout>
+    </LinearLayout>
+    <View android:background="@color/colorWaveOnCreate" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" />
+    <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:id="@id/linearPlayIcon" android:background="?selectableItemBackground" android:layout_width="wrap_content" android:layout_height="fill_parent" android:paddingStart="15.0dip" android:paddingEnd="15.0dip">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/playImageRecyclerView" android:background="?selectableItemBackground" android:layout_width="25.0dip" android:layout_height="25.0dip" android:src="@drawable/play_new" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,46 @@
+.class public La/b/e/l/F$e;
+.super La/b/e/l/F$f;
+.source ""
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = La/b/e/l/F;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x2
+    name = "e"
+.end annotation
+
+
+# instance fields
+.field public final synthetic e:La/b/e/l/F;
+
+
+# direct methods
+.method public constructor <init>(La/b/e/l/F;)V
+    .locals 1
+
+    .line 1
+    iput-object p1, p0, La/b/e/l/F$e;->e:La/b/e/l/F;
+
+    const/4 v0, 0x0
+
+    invoke-direct {p0, p1, v0}, La/b/e/l/F$f;-><init>(La/b/e/l/F;La/b/e/l/C;)V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public a()F
+    .locals 1
+
+    .line 1
+    iget-object v0, p0, La/b/e/l/F$e;->e:La/b/e/l/F;
+
+    iget v0, v0, La/b/e/l/F;->u:F
+
+    return v0
+.end method

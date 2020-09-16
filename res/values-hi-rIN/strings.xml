@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">ऐप के बारे में</string>
+    <string name="aboutActivityTitle">के बारे में</string>
+    <string name="about_app_summary">ऐप शेयर आपको अपने मित्रों के बीच आसानी से ऐप को साझा करने देता है, अपने फ़ोन पर ऐप को प्राप्त करें या अनइंस्टाल करें</string>
+    <string name="about_app_title">के बारे में</string>
+    <string name="about_player_service">ऑडियो प्लेयर सेवा</string>
+    <string name="about_privacy_summary">हम उपयोगकर्ता की गोपनीयता को बहुत अधिक महत्त्व देते हैं और हमारे एंड्राइड ऐप के इस्तेमाल के दौरान उपयोगकर्ता की गोपनीयता को सुरक्षित रखने के लिए सभी सावधानियां बरतते हैं.</string>
+    <string name="about_recorder_service">ऑडियो रिकॉर्डिंग सेवा</string>
+    <string name="about_translations">वोइस रिकॉर्डर को आपकी देशी भाषा में अनुवाद करने के लिए हमारी मदद करें ताकि आपकी भाषा बोलने वालों की मदद हो सके</string>
+    <string name="action_ad">विज्ञापन</string>
+    <string name="action_consent">कंसेंट</string>
+    <string name="action_deleted_items">ट्रैश</string>
+    <string name="action_list_recordings">सूची</string>
+    <string name="action_search">रिकॉर्डिंग खोजें..</string>
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="adcame">विज्ञापन सफलतापूर्वक आ गया</string>
+    <string name="adnotcame">विज्ञापन नहीं आया</string>
+    <string name="alarm">अलार्म</string>
+    <string name="alert_no_button">नहीं, धन्यवाद</string>
+    <string name="alert_ok_button">ठीक है</string>
+    <string name="alert_title_failure">त्रुटी</string>
+    <string name="alert_title_success">सफलता</string>
+    <string name="alert_yes_button">हाँ, कृपया !</string>
+    <string name="androidmarket" />
+    <string name="app_name">वॉयस रिकॉर्डर</string>
+    <string name="appversion">ऐप संस्करण:</string>
+    <string name="artist_name">वोइस रिकॉर्डर</string>
+    <string name="bad_extension_error">माफ़ कीजिएगा, वोइस रिकॉर्डर इस तरह की फाइलों को संपादित करने में अभी सक्षम नहीं है</string>
+    <string name="brand">डिवाइस का ब्रांड:</string>
+    <string name="btnDislike">पसंद नहीं आया</string>
+    <string name="btnNo">नहीं, धन्यवाद</string>
+    <string name="btnRateMe">"रेट
+5 स्टार"</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="cancel_label">रद्द</string>
+    <string name="choose_contact_ringtone_button">एक कांटेक्ट के लिए निर्धारित का दें</string>
+    <string name="choose_email_client">इस ऐप का इस्तेमाल करते समय आपको जो भी परेशानियां आई वो हमें बताएं</string>
+    <string name="confirm_label">पुष्टी करें</string>
+    <string name="connectplaystore">प्ले स्टोर से जुड़ नहीं सकता</string>
+    <string name="contenttitle">वोइस रिकॉर्डर</string>
+    <string name="context_menu_contact">किसी कांटेक्ट के लिए निर्धारित करें</string>
+    <string name="context_menu_default_notification">डिफ़ॉल्ट नोटीफिकेशन सेट करें</string>
+    <string name="context_menu_default_ringtone">डिफ़ॉल्ट रिंगटोन सेट करें</string>
+    <string name="context_menu_delete">रद्द करें</string>
+    <string name="context_menu_edit">सम्पादन</string>
+    <string name="couldNotOpenAndroidMarket">एंड्राइड मार्किट नहीं खोल सका.</string>
+    <string name="create_folder_error">फोल्डर नहीं बनाया जा सकता</string>
+    <string name="create_folder_error_already_exists">फोल्डर पहले से ही है</string>
+    <string name="create_folder_error_no_write_access">इस फोल्डर में नहीं लिख सकते</string>
+    <string name="create_folder_label">फोल्डर बनाएं</string>
+    <string name="create_folder_msg">नाम के साथ नया फोल्डर बनाएं?</string>
+    <string name="create_folder_success">फोल्डर बन गया</string>
+    <string name="creationtime">बनाने का समय :</string>
+    <string name="default_notification_success_message">नोटीफिकेशन की डिफ़ॉल्ट आवाज बदल दी</string>
+    <string name="default_ringtone_success_message">डिफ़ॉल्ट रिंगटोन बदल दिया</string>
+    <string name="delete">रद्द करें</string>
+    <string name="delete_permanentaly">स्थायी रूप से मिटाएं</string>
+    <string name="deleteactivitytitle">हटाए गए रिकॉर्डिंग</string>
+    <string name="deleted">रिकॉर्ड सफलतापूर्वक मिटा दिया गया</string>
+    <string name="deletefile">फाइल रद्द करें</string>
+    <string name="deletefilepermanently">फ़ाइल को स्थायी रूप से हटाएं</string>
+    <string name="do_nothing_with_ringtone_button">बंद</string>
+    <string name="duration">समय:</string>
+    <string name="durationDecreasing">समय घटता हुआ</string>
+    <string name="durationIncreasing">समय बढ़ता हुआ</string>
+    <string name="edit">संपादित करें</string>
+    <string name="editFile">संपादित फाइल सफलतापूर्वक सहेज ली गई</string>
+    <string name="edit_intent">संपादित</string>
+    <string name="end_label">अंत:</string>
+    <string name="end_marker">अंत चिन्ह्</string>
+    <string name="extension_last">mp3</string>
+    <string name="extension_last1">MP3</string>
+    <string name="faqs_details">" "<br></br> <b>" 
+ अक्सर पूछे जाने वाले प्रश्न "</b>         <br></br> <b>" 
+ 
+ • मैंने गलती से अपनी रिकॉर्डिंग हटा दी है। क्या मैं इसे पुनः प्राप्त कर सकता हूं? "</b>" 
+ कृपया ट्रेश सेटिंग को सक्षम करना सुनिश्चित करें "<b> ON </b>। यदि आपने गलती से अपनी रिकॉर्डिंग को हटा दिया है, तो आप उसी को पुनर्स्थापित कर पाएंगे।         <br></br> <b>" 
+ 
+ • मैं अपनी रिकॉर्डिंग देखने में सक्षम नहीं हूं। मैं अपनी रिकॉर्डिंग कैसे देख सकता हूं? "</b>" 
+1. ऐप खोलो। 
+2. सेटिंग्स पर क्लिक करें, ऊपर दाएं कोने से दूसरा बटन। 
+3. रिकॉर्डिंग फोल्डर के रूप में नामित पहली पहली सेटिंग देखें, यह उस पथ को दिखाता है जहां रिकॉर्डिंग सहेजे गए हैं। 
+4. किसी भी फ़ाइल प्रबंधक Android एप्लिकेशन का उपयोग करके आंतरिक संग्रहण पर जाएं और उस पथ को खोजें। 
+5. रिकॉर्डिंग वहाँ होगी।         "<br></br> <b>" 
+ 
+ • मेरी महत्वपूर्ण रिकॉर्डिंग की सुरक्षा करने का सबसे अच्छा तरीका क्या है? "</b>" 
+ हम Google ड्राइव या ड्रॉपबॉक्स आदि जैसे क्लाउड पर अपनी महत्वपूर्ण रिकॉर्डिंग को साझा / अपलोड करने के लिए रिकॉर्डिंग स्क्रीन की सूची में "<b> शेयर </b> विकल्प का उपयोग करने की सलाह देते हैं।          <br></br> <b>" 
+ 
+ • क्या कॉल रिकॉर्डिंग समर्थित है? "</b>"     
+ इस एप्लिकेशन में कॉल रिकॉर्डिंग समर्थित नहीं है।         "</string>
+    <string name="feedback_dialog_body">"इस ऐप को बेहतर बनाने में हमारी मदद करें!
+
+हम आपकी टिप्पणियों, सुझावों और सुधारों का स्वागत करते हैं"</string>
+    <string name="feedbackmessage">"
+
+-----------------------------
+कृपया इस जानकारी को न हटायें 
+ डिवाइस का ओएस: एंड्राइड 
+ डिवाइस का ओएस संस्करण:"</string>
+    <string name="ffwd">फ़ास्ट फॉरवर्ड</string>
+    <string name="fileExists">इस नाम की फाइल पहले से ही मौजूद है</string>
+    <string name="fileExistsDefault">फाइल नाम पहले से ही है, फाइल डिफ़ॉल्ट नाम से सहेज ली गई</string>
+    <string name="file_save_button_cancel">रद्द करें</string>
+    <string name="file_save_button_save">सहेजें</string>
+    <string name="file_save_title">रूप में सहेजें =:</string>
+    <string name="fileduration">समय</string>
+    <string name="filelocation">फाइल की जगह</string>
+    <string name="filename">फाइल का नाम:</string>
+    <string name="filesize">फाइल का आकार:</string>
+    <string name="gb">gb</string>
+    <string name="gp">.3gp</string>
+    <string name="grant">अनुमति दें</string>
+    <string name="hours">घं</string>
+    <string name="information">फाइल के बारे में जानकारी</string>
+    <string name="inprogress">ररिकॉर्डिंग प्रगति में है</string>
+    <string name="insert">नए फाइल का नाम डालिए</string>
+    <string name="installDateNewestToOldest">नवीनतम दिनांक -> Oldest</string>
+    <string name="installDateOldestToNewest">सबसे पुरानी दिनांक -> Newest</string>
+    <string name="kb">kb</string>
+    <string name="key_send_feedback">key_send_feedback</string>
+    <string name="licence_app">"
+&lt;b> Open Source Licences &lt;/b>
+&lt;br/>
+&lt;br/>• Android-DirectoryChooser - Copyright 2013-2016 Pascal Hartig -
+    &lt;a href=\"http://www.apache.org/licenses/LICENSE-2.0 \">Licence&lt;/a> &lt;br/>• Android-Audio-Visualizer - Copyright 2017 Gautam Chibde - &lt;a href=\"http://www.apache.org/licenses/LICENSE-2.0 \">Licence&lt;/a>
+&lt;br/>• Android-Ripple-Background - Copyright (c) 2014 Yao Yu
+    &lt;a href=\"https://github.com/skyfishjy/android-ripple-background/blob/master/LICENSE \">Licence&lt;/a> &lt;br/>• Gift Icon (iconfinder.com) - 298782 &lt;a href=\"https://opensource.org/licenses/MIT \">Licence&lt;/a>
+
+&lt;br/>• Star Icon (iconfinder.com) - 285661
+
+        &lt;br/>• Ringdroid - Copyright (C) 2008 - 2011 Google Inc.
+    &lt;a href=\"http://www.apache.org/licenses/LICENSE-2.0 \">Licence&lt;/a> &lt;a href=\"https://github.com/google/ringdroid/ \">Go to Site&lt;/a>
+
+        &lt;br/>• Scissors Icon (iconfinder.com) - 2561380
+    &lt;a href=\"https://opensource.org/licenses/MIT \">Licence&lt;/a> &lt;br/>• Rate Dialog Copyright (c) 2015 Shintaro Katafuchi &lt;a href=\"https://github.com/hotchemi/Android-Rate/blob/master/LICENSE \">Licence&lt;/a>
+
+
+
+        "</string>
+    <string name="licencesummary">ओपन सोर्स सॉफ्टवेयर के लिए लाइसेंस विवरण</string>
+    <string name="licencetitle">ओपन सोर्स लाइसेंस</string>
+    <string name="listen">सुनें</string>
+    <string name="location">फाइल का स्थान:</string>
+    <string name="m4a">.m4a</string>
+    <string name="mail_feedback_email">raytechnoto@gmail.com</string>
+    <string name="mail_feedback_message">"नमस्क्जार,
+
+
+
+अपनी समीक्षा यहाँ लिखें:"</string>
+    <string name="mail_feedback_subject">वोइस रिकॉर्डर पर समीक्षा</string>
+    <string name="mail_translate_message" />
+    <string name="make_default_ringtone_button">डिफ़ॉल्ट बनाएं</string>
+    <string name="manufacture">डिवाइस का निर्माता:</string>
+    <string name="mb">mb</string>
+    <string name="media_path">/QuickVoiceRecorder/Audios</string>
+    <string name="menu_about">के बारे में</string>
+    <string name="menu_reset">रिसेट</string>
+    <string name="menu_save">सहेजें</string>
+    <string name="menu_show_all_audio">सभी ऑडियो दिखाएँ</string>
+    <string name="message">नाम का पुष्टीकरण पूछा गया</string>
+    <string name="message_not">नाम का पुष्टीकरण नहीं पूछा गया</string>
+    <string name="minutes">मि</string>
+    <string name="model">डिवाइस का मॉडल:</string>
+    <string name="moreoptions">और विकल्प</string>
+    <string name="mp3">.mp3</string>
+    <string name="music">संगीत</string>
+    <string name="myrecording">मेरी रिकॉर्डिंग #</string>
+    <string name="nameAZ">नाम A -> Z</string>
+    <string name="nameZA">नाम Z -> A</string>
+    <string name="newfile">नया नाम डालें</string>
+    <string name="nextoff">अगला प्ले करें मोड बंद है</string>
+    <string name="nexton">अगला प्ले करें मोड चालु है</string>
+    <string name="no_extension_error">माफ़ कीजिएगा, वोइस रिकॉर्डर किसी फाइल को संपादित नहीं कर सकता यदि उसका एक्सटेंशन .mp3 या .wav जैसा नहीं है</string>
+    <string name="no_space_error">आपका एसडी कार्ड भर गया, इस फाइल को सहेजने के लिए पर्याप्त जगह नहीं है.</string>
+    <string name="no_unique_filename">अद्वितीय फाइल नाम पाने में असमर्थ</string>
+    <string name="notification">नोटीफिकेशन</string>
+    <string name="ok">ठीक है</string>
+    <string name="openWith">के साथ खोलें</string>
+    <string name="pause">रिकॉर्डिंग रोक दी गई</string>
+    <string name="permission">आपको इस ऐप का इस्तेमाल करने के लिए अनुमति देनी होगी. ऐप पहले से है</string>
+    <string name="play">प्ले</string>
+    <string name="play_error">मीडिया फाइल प्ले करने में असमर्थ</string>
+    <string name="pref_header_about">Support</string>
+    <string name="press">रिकॉर्ड करने के लिए बटन दबाएँ</string>
+    <string name="pressstop">रिकॉर्डिंग रोकने के लिए बटन दबाएँ</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="privacypolicyurl">https://raytechnoto.github.io/privacy-policy/</string>
+    <string name="progress">रिकॉर्डिंग हो रही है</string>
+    <string name="progress_dialog_cancel">रद्द</string>
+    <string name="progress_dialog_loading">लोडिंग</string>
+    <string name="progress_dialog_recording">रिकॉर्डिंग</string>
+    <string name="progress_dialog_saving">सहेजें</string>
+    <string name="progress_dialog_stop">रुकें</string>
+    <string name="rate1">यदि आप इस्तेमाल करना पसंद करते हो</string>
+    <string name="rate2">, कृपया इसे रेट करने के लिए थोड़ा समय दें.</string>
+    <string name="rate3">आपके समर्थन के लिए धन्यवाद!</string>
+    <string name="rateDialogTitle">ऐप को रेट करें</string>
+    <string name="rate_Summary">कृपया वोइस रिकॉर्डर को रेटिंग देने के लिए एक क्षण का समय दें, आपके समर्थन के लिए धन्यवाद!</string>
+    <string name="rate_dialog_body">"यदि आप वोइस रिकॉर्डर का उपयोग कर रहे हैं तो कृपया इसे रेटिंग देने के लिए एक क्षण का समय दें.
+
+Thanks for your support!"</string>
+    <string name="rate_dialog_message">यदि आप इस ऐप का आनंद उठा रहे हैं तो क्या आप कुछ क्षण निकाल कर इसे रेट करना चाहेंगे? इसमें एक मिनट से ज्यादा का समय नहीं लगेगा. आपके समर्थन के लिए धन्यवाद!</string>
+    <string name="ratenew">हम एक छोटी सी टीम हैं जो आपको मुफ्त ऐप देने के लिए कड़ी मेहनत कर रही है! आपका 5 स्टार रिव्यु सारे पैसो से ऊपर है. कृपया हमे प्रोत्साहित करने के लिए गूगल प्ले पर एक अच्छा रिव्यु लिखें !</string>
+    <string name="read_error">त्रुटी पढने की फाइल</string>
+    <string name="record_error">ऑडियो रिकॉर्डिंग में त्रुटि</string>
+    <string name="recording">रिकॉर्डिंग</string>
+    <string name="recording_file_name">रिकॉर्डिंग फाइल का नाम</string>
+    <string name="recording_file_type">रिकॉर्डिंग फाइल का प्रकार</string>
+    <string name="recording_folder_path">रिकॉर्डिंग फोल्डर</string>
+    <string name="recording_name_confirmation_summary_off">रिकॉर्डिंग फाइल डिफ़ॉल्ट नाम के साथ सहेजी गई</string>
+    <string name="recording_name_confirmation_summary_on">रिकॉर्डिंग करने के बाद फाइल का नाम डालिए</string>
+    <string name="recording_name_confirmation_title">रिकॉर्डिंग फाइल के नाम का पुष्टीकरण</string>
+    <string name="recording_quality">सैंपल दर</string>
+    <string name="recording_started">रिकॉर्डिंग शुरू ओ गई</string>
+    <string name="recordingoption">रिकॉर्डिंग विकल्प</string>
+    <string name="recordings_save">कृपया प्रतीक्षा करें ..... रिकॉर्डिंग सहेजा जा रहा है।</string>
+    <string name="recordingsaved">रिकॉर्डिंग सफलतापूर्वक सहेज ली गई</string>
+    <string name="remindme">मुझे बाद में याद दिलाईयेगा</string>
+    <string name="rename">पुन: नाम दें</string>
+    <string name="repeatoff">रिपीट मोड बंद है</string>
+    <string name="repeaton">रिपीट मोड चालु है</string>
+    <string name="restore">बहाल</string>
+    <string name="restored_status">रिकॉर्ड सफलतापूर्वक बहाल</string>
+    <string name="restorefile">फ़ाइल पुनर्स्थापित करें</string>
+    <string name="rewind">रिवाइंड</string>
+    <string name="ringtone">रिंगटोन</string>
+    <string name="ringtone_name_label">नाम:</string>
+    <string name="ringtone_type_label">प्रकार:</string>
+    <string name="save_button">सहेजें</string>
+    <string name="save_success_message">सहेज ली गई!</string>
+    <string name="saveas">रिंगटोन</string>
+    <string name="saved">रिकॉर्डिंग सहेज ली गई</string>
+    <string name="searchQueryHint">रिकॉर्डिंग खोजें..</string>
+    <string name="seconds">से</string>
+    <string name="section_format">सेक्शन : %1$d से हेल्लो वर्ल्ड</string>
+    <string name="select_sort_order">छांटने के क्रम की रिकॉर्डिंग</string>
+    <string name="selected_folder_label">चुना हुआ फोल्डर:</string>
+    <string name="setAs">रिंगटोन की जगह सेट करें</string>
+    <string name="set_default_notification">सहेज लिया गया! इसे अपना डिफ़ॉल्ट नोटीफिकेशन बना लें?</string>
+    <string name="share">साझा</string>
+    <string name="sharefile">ऑडियो फाइल साझा करें</string>
+    <string name="show_apps">ऐप्स दिखाएँ</string>
+    <string name="size">फाइल का आकार</string>
+    <string name="sizeDecreasing">आकार घटता हुआ</string>
+    <string name="sizeIncreasing">आकार बढ़ता हुआ</string>
+    <string name="sort">छांटे</string>
+    <string name="sort_apps">ऐप्स छांटना</string>
+    <string name="sortorder">छांटने का क्रम चुनें</string>
+    <string name="start_label">शुरू:</string>
+    <string name="start_marker">शुरुवात चिन्ह</string>
+    <string name="stop">स्टॉप</string>
+    <string name="storagepermission">स्टोरेज अनुमति की आवश्यकता है</string>
+    <string name="storagepermissionmessage">इस ऐप को स्टोरेज अनुमति की आवश्यकता है</string>
+    <string name="subject">वोइस रिकॉर्डर पर समीक्षा</string>
+    <string name="summary_faqs">अक्सर पूछे जाने वाले प्रश्न</string>
+    <string name="summary_support">आप ऐप के बारे में जो भी परेशानियों का सामना कर रहे हैं हमे बताएं</string>
+    <string name="time">बनाया गया</string>
+    <string name="time_seconds">सेकंड्स</string>
+    <string name="title">गोपनीयता नीति</string>
+    <string name="title_Settings_activity">सेटिंग्स</string>
+    <string name="title_activity_android_building_music_player">प्लेयर</string>
+    <string name="title_activity_app_compat_preference">ऐप कॉम्पैक्ट प्रेफेरेंस एक्टिविटी</string>
+    <string name="title_activity_rate">रेटएक्टिविटी</string>
+    <string name="title_activity_recording_self">रिकॉर्डिंग एक्टिविटी सेल्फ</string>
+    <string name="title_activity_recordings">रिकॉर्डिंग्स</string>
+    <string name="title_faqs">पूछे जाने वाले प्रश्न</string>
+    <string name="title_send_feedback">समीक्षा भेजें</string>
+    <string name="too_small_error">इतनी छोटी फाइल को सहेजा नहीं जा सकता, कृपया इसे लंबा बनाने का प्रयास करें.</string>
+    <string name="translations">अनुवाद करने में हमारी मदद करें</string>
+    <string name="trash_size">ट्रैश आकार</string>
+    <string name="trashcontent">हटाए जाने पर फ़ाइलें ट्रैश में चली जाएंगी</string>
+    <string name="trashcontentoff">रिकॉर्डिंग को स्थायी रूप से हटा दिया जाएगा और पुनर्स्थापित नहीं किया जा सकता है</string>
+    <string name="txtView">5 स्टार दें</string>
+    <string name="type_alarm">अलार्म</string>
+    <string name="type_music">संगीत</string>
+    <string name="type_notification">नोटीफिकेशन</string>
+    <string name="type_recording">रिकॉर्डिंग</string>
+    <string name="type_ringtone">रिंगटोन</string>
+    <string name="unable">अनुमति लेने में असक्षम</string>
+    <string name="up_label">पीछे</string>
+    <string name="viewDetail">विवरण देखें</string>
+    <string name="volumeup">कृपया आवाज बढायें</string>
+    <string name="wav">.wav</string>
+    <string name="what_to_do_with_ringtone">सहेज लिया गया! इसे अपनी डिफ़ॉल्ट रिंगटोन बना लें या इसे एक कांटेक्ट के लिए निर्धारित कर दें?</string>
+    <string name="write_error">फाइल लिखने में त्रुटी हो गई</string>
+    <string name="zoom_in">ज़ूम इन</string>
+    <string name="zoom_out">ज़ूम आउट</string>
+</resources>

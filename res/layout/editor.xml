@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.design.widget.AppBarLayout android:theme="@style/AppTheme.AppBarOverlay" android:id="@id/appbarLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true">
+        <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:background="?colorPrimary" android:layout_width="fill_parent" android:layout_height="?actionBarSize" app:popupTheme="@style/AppTheme.PopupOverlay" />
+    </android.support.design.widget.AppBarLayout>
+    <RelativeLayout android:background="@drawable/voice_recorder_backgraound_grey" android:layout_width="wrap_content" android:layout_height="300.0dip" android:layout_below="@id/appbarLayout">
+        <com.raytechnoto.glab.voicerecorder.WaveformView android:id="@id/waveform" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <com.raytechnoto.glab.voicerecorder.MarkerView android:id="@id/startmarker" android:nextFocusDown="@id/endmarker" android:layout_width="60.0dip" android:layout_height="60.0dip" android:src="@drawable/marker_left" android:layout_alignParentLeft="true" android:contentDescription="@string/start_marker" />
+        <com.raytechnoto.glab.voicerecorder.MarkerView android:id="@id/endmarker" android:nextFocusUp="@id/startmarker" android:nextFocusDown="@id/info" android:layout_width="60.0dip" android:layout_height="60.0dip" android:src="@drawable/marker_right" android:layout_alignParentLeft="true" android:contentDescription="@string/end_marker" />
+    </RelativeLayout>
+    <TextView android:textColor="@color/grey1" android:gravity="center" android:id="@id/info" android:nextFocusUp="@id/endmarker" android:nextFocusDown="@id/play" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_above="@id/startstopLinear" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/startstopLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="2.0" android:layout_above="@id/playerLinear" style="@style/ToolbarBackground">
+        <LinearLayout android:orientation="horizontal" android:padding="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="10.0dip" android:layout_marginEnd="50.0dip">
+            <TextView android:textSize="14.0sp" android:textColor="@color/grey2" android:gravity="center" android:id="@id/mark_start" android:clickable="true" android:layout_width="wrap_content" android:layout_height="31.0dip" android:text="@string/start_label" android:labelFor="@id/starttext" />
+            <EditText android:textSize="16.0sp" android:textColor="@color/grey2" android:gravity="center" android:id="@id/starttext" android:layout_width="70.0dip" android:layout_height="wrap_content" android:inputType="numberDecimal" android:layout_marginStart="10.0dip" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:padding="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="10.0dip">
+            <TextView android:textSize="14.0sp" android:textColor="@color/grey2" android:gravity="center" android:id="@id/mark_end" android:clickable="true" android:layout_width="wrap_content" android:layout_height="31.0dip" android:text="@string/end_label" android:labelFor="@id/endtext" />
+            <EditText android:textSize="16.0sp" android:textColor="@color/grey2" android:gravity="center" android:id="@id/endtext" android:layout_width="80.0dip" android:layout_height="wrap_content" android:inputType="numberDecimal" android:layout_marginStart="10.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+    <RelativeLayout android:gravity="center" android:id="@id/playerLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_above="@id/bottomLinear" style="@style/ToolbarBackground">
+        <ImageView android:id="@id/rew" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginTop="6.0dip" android:layout_marginRight="25.0dip" android:layout_marginBottom="6.0dip" android:src="@drawable/prev_play_grey" android:layout_toLeftOf="@id/play" android:layout_centerVertical="true" android:contentDescription="@string/rewind" />
+        <ImageView android:id="@id/play" android:layout_width="65.0dip" android:layout_height="65.0dip" android:layout_marginTop="6.0dip" android:layout_marginBottom="6.0dip" android:src="@drawable/play_new" android:layout_centerHorizontal="true" android:contentDescription="@string/play" />
+        <ImageView android:id="@id/ffwd" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginLeft="25.0dip" android:layout_marginTop="6.0dip" android:layout_marginBottom="6.0dip" android:src="@drawable/next_play_grey" android:layout_toRightOf="@id/play" android:layout_centerVertical="true" android:contentDescription="@string/ffwd" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/bottomLinear" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_alignParentBottom="true" />
+    <LinearLayout style="@style/HorizontalDividerBottom" />
+</RelativeLayout>
